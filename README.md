@@ -5,3 +5,8 @@ Here is the link to our Google Doc, which contains all of our Project Informatio
 Thanks,
 
 - AS
+
+
+See if you guys can open up the blank presentation with this link:
+
+https://1drv.ms/p/s!ApbL48a-FyCRdJ6C87jElQxPNL8?e=ioLjye
