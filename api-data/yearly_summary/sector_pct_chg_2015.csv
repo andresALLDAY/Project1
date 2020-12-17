@@ -1,119 +1,119 @@
-Sector,pct change
-Building Materials,51.879984808203574
-Beverages-Non-Alcoholic,49.35652160869441
-Packaged Foods,25.187768409331614
-Resorts & Casinos,23.855633802816893
-Airlines,23.66155402796397
-REIT-Industrial,21.249270286047864
-Agricultural Inputs,20.199857244825125
-Farm Products,18.933243684628383
-Marine Shipping,18.48463523340371
-Building Products & Equipment,18.25278768945356
-Tools & Accessories,17.471910112359556
-Tobacco,16.758654595657273
-Staffing & Employment Services,15.999487771882698
-Engineering & Construction,15.302354905352228
-Conglomerates,13.320860617399447
-Real Estate-Diversified,12.69584008643977
-Oil & Gas Refining & Marketing,12.284170146276892
-Banks-Regional,11.455417812909085
-Residential Construction,11.253193994621284
-Insurance Brokers,11.197394789579164
-Software-Infrastructure,11.060218519409592
-Semiconductors,10.419309019386
-Telecom Services,9.864853789137833
-Mortgage Finance,9.128706063874434
-Household & Personal Products,8.83640841865196
-Leisure,8.586347875736788
-Pharmaceutical Retailers,8.401400233372236
-Utilities-Regulated Gas,7.731210509319348
-Insurance-Specialty,6.896028706754575
-Recreational Vehicles,6.208180351136478
-Medical Distribution,4.863813229571985
-Oil & Gas Midstream,4.248088360237893
-"Furnishings, Fixtures & Appliances",3.99643341382031
-Pollution & Treatment Controls,3.659305993690852
-Broadcasting,3.421743297719394
-Drug Manufacturers-Specialty & Generic,3.3533480408384895
-Auto Parts,2.843551217325891
-Healthcare Plans,2.497567304573466
-Specialty Chemicals,2.131807401510083
-Insurance-Reinsurance,1.3422818791946287
-Electrical Equipment & Parts,0.8891495399606135
-Medical Devices,0.8841609080727861
-Entertainment,0.5798629414865548
-Software-Application,0.3241467789745261
-Biotechnology,0.25006533413719645
-Utilities-Regulated Water,0.02444230116172985
-Information Technology Services,-0.8626600256134596
-Diagnostics & Research,-2.127183623574025
-Textile Manufacturing,-3.936358136133139
-Aerospace & Defense,-4.274256033700512
-Capital Markets,-4.296134372525041
-Health Information Services,-4.697917358070234
-Insurance-Property & Casualty,-5.709743358096937
-Electronics & Computer Distribution,-5.958551850901374
-Insurance-Life,-6.158967956720767
-Consumer Electronics,-6.626411741730347
-Medical Instruments & Supplies,-6.8416368466261686
-Specialty Business Services,-6.940720313542535
-Electronic Components,-7.688566461131581
-Personal Services,-7.809733947152328
-Discount Stores,-8.832491056718808
-Airports & Air Services,-9.337203676826316
-REIT-Office,-10.774842904928564
-Real Estate Services,-11.222719420642703
-Integrated Freight & Logistics,-11.74508849087343
-Publishing,-11.983010659154473
-Waste Management,-13.776070252469824
-Security & Protection Services,-13.881636205396003
-REIT-Retail,-14.512563923205015
-REIT-Hotel & Motel,-14.825431989224157
-Communication Equipment,-15.117686741489084
-Medical Care Facilities,-15.616657402677358
-Lumber & Wood Production,-15.810564174644524
-REIT-Diversified,-15.936818949775832
-Scientific & Technical Instruments,-16.11118568086509
-REIT-Mortgage,-16.406291496273813
-Other Industrial Metals & Mining,-17.678571428571438
-Semiconductor Equipment & Materials,-17.773236948066007
-REIT-Residential,-17.830246864408114
-Business Equipment & Supplies,-18.818101321903438
-Internet Retail,-19.07692307692308
-Advertising Agencies,-19.198778852244207
-Oil & Gas Drilling,-20.089634441870093
-Restaurants,-21.024466345019295
-Paper & Paper Products,-22.233053971982784
-Footwear & Accessories,-22.493471537111134
-Packaging & Containers,-23.24573225516621
-Farm & Heavy Construction Machinery,-25.103501265915707
-REIT-Healthcare Facilities,-25.20530329633758
-Specialty Retail,-25.822799994328417
-Chemicals,-28.139863049975425
-Asset Management,-30.131653496203313
-Auto & Truck Dealerships,-30.859653813554672
-Consulting Services,-31.71922258626722
-Apparel Manufacturing,-32.181354261306254
-Metal Fabrication,-33.26384990868244
-Food Distribution,-33.44021465154333
-Industrial Distribution,-39.88204798239114
-REIT-Specialty,-43.90635916397174
-Electronic Gaming & Multimedia,-44.44444444444443
-Apparel Retail,-45.36413650742111
-Oil & Gas Equipment & Services,-50.181786595398414
-Luxury Goods,-52.961729414989094
-Internet Content & Information,-55.83293093077829
-Trucking,-57.482192255629656
-Railroads,-59.19681177191908
-Specialty Industrial Machinery,-64.72976781756142
-Education & Training Services,-67.0529485169708
-Utilities-Diversified,-76.31876648029866
-Department Stores,-82.61863922241282
-Credit Services,-86.28833889074515
-Oil & Gas E&P,-95.34020524631723
-Rental & Leasing Services,-128.99131596526388
-Computer Hardware,-138.30499572428502
-Home Improvement Retail,-138.85658831418942
-Steel,-182.30620012158317
-Aluminum,-202.84895877842112
-Coking Coal,-335.1585014409221
+Sector,pct change,Year
+Building Materials,51.879984808203574,2015
+Beverages-Non-Alcoholic,49.35652160869441,2015
+Packaged Foods,25.187768409331614,2015
+Resorts & Casinos,23.855633802816893,2015
+Airlines,23.66155402796397,2015
+REIT-Industrial,21.249270286047864,2015
+Agricultural Inputs,20.199857244825125,2015
+Farm Products,18.933243684628383,2015
+Marine Shipping,18.48463523340371,2015
+Building Products & Equipment,18.25278768945356,2015
+Tools & Accessories,17.471910112359556,2015
+Tobacco,16.758654595657273,2015
+Staffing & Employment Services,15.999487771882698,2015
+Engineering & Construction,15.302354905352228,2015
+Conglomerates,13.320860617399447,2015
+Real Estate-Diversified,12.69584008643977,2015
+Oil & Gas Refining & Marketing,12.284170146276892,2015
+Banks-Regional,11.455417812909085,2015
+Residential Construction,11.253193994621284,2015
+Insurance Brokers,11.197394789579164,2015
+Software-Infrastructure,11.060218519409592,2015
+Semiconductors,10.419309019386,2015
+Telecom Services,9.864853789137833,2015
+Mortgage Finance,9.128706063874434,2015
+Household & Personal Products,8.83640841865196,2015
+Leisure,8.586347875736788,2015
+Pharmaceutical Retailers,8.401400233372236,2015
+Utilities-Regulated Gas,7.731210509319348,2015
+Insurance-Specialty,6.896028706754575,2015
+Recreational Vehicles,6.208180351136478,2015
+Medical Distribution,4.863813229571985,2015
+Oil & Gas Midstream,4.248088360237893,2015
+"Furnishings, Fixtures & Appliances",3.99643341382031,2015
+Pollution & Treatment Controls,3.659305993690852,2015
+Broadcasting,3.421743297719394,2015
+Drug Manufacturers-Specialty & Generic,3.3533480408384895,2015
+Auto Parts,2.843551217325891,2015
+Healthcare Plans,2.497567304573466,2015
+Specialty Chemicals,2.131807401510083,2015
+Insurance-Reinsurance,1.3422818791946287,2015
+Electrical Equipment & Parts,0.8891495399606135,2015
+Medical Devices,0.8841609080727861,2015
+Entertainment,0.5798629414865548,2015
+Software-Application,0.3241467789745261,2015
+Biotechnology,0.25006533413719645,2015
+Utilities-Regulated Water,0.02444230116172985,2015
+Information Technology Services,-0.8626600256134596,2015
+Diagnostics & Research,-2.127183623574025,2015
+Textile Manufacturing,-3.936358136133139,2015
+Aerospace & Defense,-4.274256033700512,2015
+Capital Markets,-4.296134372525041,2015
+Health Information Services,-4.697917358070234,2015
+Insurance-Property & Casualty,-5.709743358096937,2015
+Electronics & Computer Distribution,-5.958551850901374,2015
+Insurance-Life,-6.158967956720767,2015
+Consumer Electronics,-6.626411741730347,2015
+Medical Instruments & Supplies,-6.8416368466261686,2015
+Specialty Business Services,-6.940720313542535,2015
+Electronic Components,-7.688566461131581,2015
+Personal Services,-7.809733947152328,2015
+Discount Stores,-8.832491056718808,2015
+Airports & Air Services,-9.337203676826316,2015
+REIT-Office,-10.774842904928564,2015
+Real Estate Services,-11.222719420642703,2015
+Integrated Freight & Logistics,-11.74508849087343,2015
+Publishing,-11.983010659154473,2015
+Waste Management,-13.776070252469824,2015
+Security & Protection Services,-13.881636205396003,2015
+REIT-Retail,-14.512563923205015,2015
+REIT-Hotel & Motel,-14.825431989224157,2015
+Communication Equipment,-15.117686741489084,2015
+Medical Care Facilities,-15.616657402677358,2015
+Lumber & Wood Production,-15.810564174644524,2015
+REIT-Diversified,-15.936818949775832,2015
+Scientific & Technical Instruments,-16.11118568086509,2015
+REIT-Mortgage,-16.406291496273813,2015
+Other Industrial Metals & Mining,-17.678571428571438,2015
+Semiconductor Equipment & Materials,-17.773236948066007,2015
+REIT-Residential,-17.830246864408114,2015
+Business Equipment & Supplies,-18.818101321903438,2015
+Internet Retail,-19.07692307692308,2015
+Advertising Agencies,-19.198778852244207,2015
+Oil & Gas Drilling,-20.089634441870093,2015
+Restaurants,-21.024466345019295,2015
+Paper & Paper Products,-22.233053971982784,2015
+Footwear & Accessories,-22.493471537111134,2015
+Packaging & Containers,-23.24573225516621,2015
+Farm & Heavy Construction Machinery,-25.103501265915707,2015
+REIT-Healthcare Facilities,-25.20530329633758,2015
+Specialty Retail,-25.822799994328417,2015
+Chemicals,-28.139863049975425,2015
+Asset Management,-30.131653496203313,2015
+Auto & Truck Dealerships,-30.859653813554672,2015
+Consulting Services,-31.71922258626722,2015
+Apparel Manufacturing,-32.181354261306254,2015
+Metal Fabrication,-33.26384990868244,2015
+Food Distribution,-33.44021465154333,2015
+Industrial Distribution,-39.88204798239114,2015
+REIT-Specialty,-43.90635916397174,2015
+Electronic Gaming & Multimedia,-44.44444444444443,2015
+Apparel Retail,-45.36413650742111,2015
+Oil & Gas Equipment & Services,-50.181786595398414,2015
+Luxury Goods,-52.961729414989094,2015
+Internet Content & Information,-55.83293093077829,2015
+Trucking,-57.482192255629656,2015
+Railroads,-59.19681177191908,2015
+Specialty Industrial Machinery,-64.72976781756142,2015
+Education & Training Services,-67.0529485169708,2015
+Utilities-Diversified,-76.31876648029866,2015
+Department Stores,-82.61863922241282,2015
+Credit Services,-86.28833889074515,2015
+Oil & Gas E&P,-95.34020524631723,2015
+Rental & Leasing Services,-128.99131596526388,2015
+Computer Hardware,-138.30499572428502,2015
+Home Improvement Retail,-138.85658831418942,2015
+Steel,-182.30620012158317,2015
+Aluminum,-202.84895877842112,2015
+Coking Coal,-335.1585014409221,2015

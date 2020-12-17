@@ -1,121 +1,121 @@
-Sector,pct change
-Oil & Gas Midstream,64.59948320413437
-Auto & Truck Dealerships,40.6547787439317
-Rental & Leasing Services,39.32038834951456
-Infrastructure Operations,33.93939393939394
-Insurance Brokers,32.41800655284211
-Pollution & Treatment Controls,31.844961240310077
-Recreational Vehicles,30.987554010150973
-Lumber & Wood Production,30.09468682872296
-Industrial Distribution,27.20438528416879
-Internet Content & Information,25.568770729684918
-Semiconductor Equipment & Materials,24.104193357809525
-Tools & Accessories,21.741269060501715
-Real Estate-Diversified,21.533030761472506
-REIT-Diversified,21.46164435284776
-Other Industrial Metals & Mining,21.05971404541632
-REIT-Residential,20.482638888888896
-Electrical Equipment & Parts,19.679765279830864
-Residential Construction,19.632497153029366
-Specialty Business Services,18.232617167450815
-Marine Shipping,17.86764705882353
-Semiconductors,17.663636055057882
-Information Technology Services,17.18324833021782
-Scientific & Technical Instruments,17.006197334139493
-Healthcare Plans,16.728434504792336
-Building Products & Equipment,16.492892142213933
-Electronics & Computer Distribution,14.80284881715285
-Building Materials,14.54632741238597
-Electronic Components,13.664466648088666
-Leisure,13.610166469696068
-"Furnishings, Fixtures & Appliances",13.474109143952953
-Utilities-Regulated Water,12.89702196367158
-Textile Manufacturing,12.441681329765803
-Airlines,12.3835271141649
-Insurance-Specialty,12.269195189540989
-REIT-Industrial,11.993058177351571
-Utilities-Diversified,11.339260414920927
-Resorts & Casinos,10.9371781668383
-Education & Training Services,10.883337591802777
-Footwear & Accessories,10.469590710936936
-Specialty Industrial Machinery,10.45164318252091
-Utilities-Regulated Gas,10.292252860461925
-REIT-Office,10.12454728175195
-Agricultural Inputs,10.015408320493064
-Tobacco,8.363757395946305
-Banks-Regional,8.303440077303105
-Medical Devices,7.204811912906855
-Apparel Manufacturing,6.793946037729807
-Mortgage Finance,6.372655131043378
-Consulting Services,5.85994924459856
-Farm Products,4.954831332189818
-Integrated Freight & Logistics,4.920763157336057
-Medical Care Facilities,4.380974877010143
-Oil & Gas Refining & Marketing,4.270159163562718
-Trucking,3.548404152768459
-Insurance-Property & Casualty,2.9493408859838084
-Software-Application,2.0485209769663375
-Discount Stores,1.9688733763253916
-Staffing & Employment Services,1.4623524992509185
-Specialty Chemicals,1.3981901994863373
-Farm & Heavy Construction Machinery,0.7288469219082281
-Insurance-Reinsurance,0.0950570342205303
-REIT-Mortgage,-0.4622812538832662
-Diagnostics & Research,-0.48131890114912323
-REIT-Retail,-0.5661370757826277
-Pharmaceutical Retailers,-0.680272108843538
-REIT-Hotel & Motel,-1.1334896042142553
-Software-Infrastructure,-1.8797147762238207
-Metal Fabrication,-4.306236203848678
-Paper & Paper Products,-4.610992314800958
-Insurance-Life,-4.644169729368529
-Aerospace & Defense,-5.376058922677725
-Apparel Retail,-5.474722168944543
-Communication Equipment,-5.6905311206035805
-Restaurants,-6.343928191361677
-Aluminum,-6.467472065818162
-Engineering & Construction,-6.76428021143721
-Packaged Foods,-7.85531382529067
-REIT-Healthcare Facilities,-7.97823581825156
-Advertising Agencies,-9.226853102128649
-Health Information Services,-9.698002711143523
-Asset Management,-9.733388357659207
-Waste Management,-9.946468658262832
-Personal Services,-10.240468439653537
-Home Improvement Retail,-12.035674684408054
-Capital Markets,-12.798422372173778
-Oil & Gas Drilling,-13.848713119899566
-Consumer Electronics,-15.62450324533156
-Conglomerates,-16.557505894681686
-Auto Parts,-17.057442813863954
-Drug Manufacturers-Specialty & Generic,-18.02821834334577
-Beverages-Non-Alcoholic,-20.15012733374178
-Household & Personal Products,-20.240614752623735
-Specialty Retail,-23.872385610320425
-Telecom Services,-24.050844898864355
-Biotechnology,-24.13015535447571
-Food Distribution,-24.145372260998254
-Oil & Gas Equipment & Services,-27.079692858294
-Medical Instruments & Supplies,-29.455861334678342
-Railroads,-30.773974714770265
-Steel,-32.33092322488792
-Real Estate Services,-32.68942783420011
-Computer Hardware,-34.73694581280788
-Business Equipment & Supplies,-37.716643278611166
-Broadcasting,-39.44173267047515
-Entertainment,-40.289581366068624
-Internet Retail,-40.43624161073824
-Security & Protection Services,-44.22952524278147
-Medical Distribution,-46.421663442940044
-Oil & Gas E&P,-48.654136693112896
-Credit Services,-50.28955922137598
-Department Stores,-54.70588235294118
-Luxury Goods,-58.08135525678805
-Coking Coal,-58.19257687069042
-Electronic Gaming & Multimedia,-60.991735537190095
-Publishing,-63.276249428731454
-REIT-Specialty,-78.41797381452632
-Airports & Air Services,-93.03590859630032
-Packaging & Containers,-107.65709111032851
-Chemicals,-127.79361184030692
-Thermal Coal,-144.86560992419024
+Sector,pct change,Year
+Oil & Gas Midstream,64.59948320413437,2019
+Auto & Truck Dealerships,40.6547787439317,2019
+Rental & Leasing Services,39.32038834951456,2019
+Infrastructure Operations,33.93939393939394,2019
+Insurance Brokers,32.41800655284211,2019
+Pollution & Treatment Controls,31.844961240310077,2019
+Recreational Vehicles,30.987554010150973,2019
+Lumber & Wood Production,30.09468682872296,2019
+Industrial Distribution,27.20438528416879,2019
+Internet Content & Information,25.568770729684918,2019
+Semiconductor Equipment & Materials,24.104193357809525,2019
+Tools & Accessories,21.741269060501715,2019
+Real Estate-Diversified,21.533030761472506,2019
+REIT-Diversified,21.46164435284776,2019
+Other Industrial Metals & Mining,21.05971404541632,2019
+REIT-Residential,20.482638888888896,2019
+Electrical Equipment & Parts,19.679765279830864,2019
+Residential Construction,19.632497153029366,2019
+Specialty Business Services,18.232617167450815,2019
+Marine Shipping,17.86764705882353,2019
+Semiconductors,17.663636055057882,2019
+Information Technology Services,17.18324833021782,2019
+Scientific & Technical Instruments,17.006197334139493,2019
+Healthcare Plans,16.728434504792336,2019
+Building Products & Equipment,16.492892142213933,2019
+Electronics & Computer Distribution,14.80284881715285,2019
+Building Materials,14.54632741238597,2019
+Electronic Components,13.664466648088666,2019
+Leisure,13.610166469696068,2019
+"Furnishings, Fixtures & Appliances",13.474109143952953,2019
+Utilities-Regulated Water,12.89702196367158,2019
+Textile Manufacturing,12.441681329765803,2019
+Airlines,12.3835271141649,2019
+Insurance-Specialty,12.269195189540989,2019
+REIT-Industrial,11.993058177351571,2019
+Utilities-Diversified,11.339260414920927,2019
+Resorts & Casinos,10.9371781668383,2019
+Education & Training Services,10.883337591802777,2019
+Footwear & Accessories,10.469590710936936,2019
+Specialty Industrial Machinery,10.45164318252091,2019
+Utilities-Regulated Gas,10.292252860461925,2019
+REIT-Office,10.12454728175195,2019
+Agricultural Inputs,10.015408320493064,2019
+Tobacco,8.363757395946305,2019
+Banks-Regional,8.303440077303105,2019
+Medical Devices,7.204811912906855,2019
+Apparel Manufacturing,6.793946037729807,2019
+Mortgage Finance,6.372655131043378,2019
+Consulting Services,5.85994924459856,2019
+Farm Products,4.954831332189818,2019
+Integrated Freight & Logistics,4.920763157336057,2019
+Medical Care Facilities,4.380974877010143,2019
+Oil & Gas Refining & Marketing,4.270159163562718,2019
+Trucking,3.548404152768459,2019
+Insurance-Property & Casualty,2.9493408859838084,2019
+Software-Application,2.0485209769663375,2019
+Discount Stores,1.9688733763253916,2019
+Staffing & Employment Services,1.4623524992509185,2019
+Specialty Chemicals,1.3981901994863373,2019
+Farm & Heavy Construction Machinery,0.7288469219082281,2019
+Insurance-Reinsurance,0.0950570342205303,2019
+REIT-Mortgage,-0.4622812538832662,2019
+Diagnostics & Research,-0.48131890114912323,2019
+REIT-Retail,-0.5661370757826277,2019
+Pharmaceutical Retailers,-0.680272108843538,2019
+REIT-Hotel & Motel,-1.1334896042142553,2019
+Software-Infrastructure,-1.8797147762238207,2019
+Metal Fabrication,-4.306236203848678,2019
+Paper & Paper Products,-4.610992314800958,2019
+Insurance-Life,-4.644169729368529,2019
+Aerospace & Defense,-5.376058922677725,2019
+Apparel Retail,-5.474722168944543,2019
+Communication Equipment,-5.6905311206035805,2019
+Restaurants,-6.343928191361677,2019
+Aluminum,-6.467472065818162,2019
+Engineering & Construction,-6.76428021143721,2019
+Packaged Foods,-7.85531382529067,2019
+REIT-Healthcare Facilities,-7.97823581825156,2019
+Advertising Agencies,-9.226853102128649,2019
+Health Information Services,-9.698002711143523,2019
+Asset Management,-9.733388357659207,2019
+Waste Management,-9.946468658262832,2019
+Personal Services,-10.240468439653537,2019
+Home Improvement Retail,-12.035674684408054,2019
+Capital Markets,-12.798422372173778,2019
+Oil & Gas Drilling,-13.848713119899566,2019
+Consumer Electronics,-15.62450324533156,2019
+Conglomerates,-16.557505894681686,2019
+Auto Parts,-17.057442813863954,2019
+Drug Manufacturers-Specialty & Generic,-18.02821834334577,2019
+Beverages-Non-Alcoholic,-20.15012733374178,2019
+Household & Personal Products,-20.240614752623735,2019
+Specialty Retail,-23.872385610320425,2019
+Telecom Services,-24.050844898864355,2019
+Biotechnology,-24.13015535447571,2019
+Food Distribution,-24.145372260998254,2019
+Oil & Gas Equipment & Services,-27.079692858294,2019
+Medical Instruments & Supplies,-29.455861334678342,2019
+Railroads,-30.773974714770265,2019
+Steel,-32.33092322488792,2019
+Real Estate Services,-32.68942783420011,2019
+Computer Hardware,-34.73694581280788,2019
+Business Equipment & Supplies,-37.716643278611166,2019
+Broadcasting,-39.44173267047515,2019
+Entertainment,-40.289581366068624,2019
+Internet Retail,-40.43624161073824,2019
+Security & Protection Services,-44.22952524278147,2019
+Medical Distribution,-46.421663442940044,2019
+Oil & Gas E&P,-48.654136693112896,2019
+Credit Services,-50.28955922137598,2019
+Department Stores,-54.70588235294118,2019
+Luxury Goods,-58.08135525678805,2019
+Coking Coal,-58.19257687069042,2019
+Electronic Gaming & Multimedia,-60.991735537190095,2019
+Publishing,-63.276249428731454,2019
+REIT-Specialty,-78.41797381452632,2019
+Airports & Air Services,-93.03590859630032,2019
+Packaging & Containers,-107.65709111032851,2019
+Chemicals,-127.79361184030692,2019
+Thermal Coal,-144.86560992419024,2019

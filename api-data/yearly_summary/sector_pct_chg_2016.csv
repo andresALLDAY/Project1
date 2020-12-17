@@ -1,119 +1,119 @@
-Sector,pct change
-Coking Coal,66.66666666666667
-Steel,61.36824460898472
-Education & Training Services,53.589951132273896
-Recreational Vehicles,48.42756634099019
-Credit Services,46.10154342443108
-Oil & Gas Drilling,45.35711428390647
-Industrial Distribution,45.07545227752482
-Tools & Accessories,42.06106870229008
-Agricultural Inputs,41.20104438642297
-Security & Protection Services,40.23968042609853
-Electronic Components,39.898000375483754
-Entertainment,39.87301587301587
-Other Industrial Metals & Mining,38.15656565656566
-Railroads,37.761732851985556
-Specialty Chemicals,37.43741797939406
-Farm & Heavy Construction Machinery,36.814623758833605
-Specialty Industrial Machinery,36.377318864388286
-Semiconductor Equipment & Materials,35.948160620324835
-Conglomerates,35.05530253741054
-Medical Instruments & Supplies,34.68156854915176
-Airlines,33.528213013176874
-Banks-Regional,33.44256058062167
-Packaged Foods,33.39440339939854
-Internet Retail,33.23076923076923
-Oil & Gas Equipment & Services,33.03588064846214
-Insurance-Specialty,32.45719865203307
-Computer Hardware,32.341195333431784
-Consumer Electronics,32.12933654655942
-Auto & Truck Dealerships,31.61940402112979
-Specialty Business Services,31.29852170818086
-Biotechnology,31.056018006423734
-Waste Management,30.88504577822991
-Building Materials,30.56488549618321
-Trucking,30.262755456971856
-Airports & Air Services,29.568552253116014
-Building Products & Equipment,29.48428242520389
-Paper & Paper Products,29.25524985957125
-Engineering & Construction,28.869371587510336
-Capital Markets,28.27074990301383
-Semiconductors,28.202444617572922
-Scientific & Technical Instruments,27.314095465535623
-Telecom Services,26.953191909385495
-Textile Manufacturing,26.792560609861596
-Chemicals,26.72913637803494
-REIT-Residential,26.31414231683569
-Metal Fabrication,25.064074405703213
-Insurance-Property & Casualty,24.373592978015587
-Healthcare Plans,24.25249169435216
-REIT-Diversified,23.89849024484615
-Internet Content & Information,23.002038260684216
-Aluminum,22.397727368417257
-REIT-Hotel & Motel,22.250772108004657
-Pharmaceutical Retailers,21.889900303424366
-REIT-Industrial,21.20525600362483
-REIT-Office,21.104792505505177
-Electronics & Computer Distribution,20.940802333444942
-Consulting Services,20.659964301512094
-Lumber & Wood Production,20.378769491746592
-REIT-Healthcare Facilities,20.25186698089624
-Residential Construction,19.720750990922905
-Resorts & Casinos,19.705197827773475
-Insurance-Life,19.29902395740904
-Software-Application,19.17461858672749
-Business Equipment & Supplies,19.081488494886848
-Home Improvement Retail,19.010931862169535
-Integrated Freight & Logistics,17.132241983299078
-Utilities-Diversified,16.805704097440213
-"Furnishings, Fixtures & Appliances",16.529032967062687
-Real Estate-Diversified,16.26315789473684
-Packaging & Containers,16.056619169504003
-Publishing,15.95446335279388
-Communication Equipment,15.644457777196049
-Discount Stores,15.537883404670442
-REIT-Mortgage,14.628581246215417
-Medical Devices,14.334080547111522
-Auto Parts,14.171982324067603
-Personal Services,13.687036327505396
-Electrical Equipment & Parts,13.402305532509889
-Utilities-Regulated Water,13.169692920094999
-Aerospace & Defense,12.825070904879404
-Diagnostics & Research,12.133047824434524
-Software-Infrastructure,10.452424121126732
-Beverages-Non-Alcoholic,10.358777660021854
-Advertising Agencies,10.304244771471948
-Oil & Gas E&P,10.218370258557297
-Utilities-Regulated Gas,9.535912588888527
-Farm Products,9.219972966365887
-REIT-Retail,8.504920671283806
-Food Distribution,7.435837258305443
-Real Estate Services,7.2902407111821566
-Tobacco,5.799223963991928
-Staffing & Employment Services,5.783088031619683
-Pollution & Treatment Controls,5.253042921204358
-Asset Management,4.645272531556625
-REIT-Specialty,3.3078526072653816
-Information Technology Services,1.8279308832386678
-Medical Distribution,1.813544913573252
-Restaurants,1.366393448793468
-Specialty Retail,-0.2131955294104405
-Insurance-Reinsurance,-0.8658008658008627
-Footwear & Accessories,-1.9254914373157497
-Oil & Gas Refining & Marketing,-3.890868011949312
-Mortgage Finance,-4.307968017645437
-Apparel Manufacturing,-4.507741370353376
-Leisure,-5.060604711886539
-Medical Care Facilities,-5.813829197660913
-Health Information Services,-10.844826148762028
-Insurance Brokers,-11.571230662664505
-Luxury Goods,-12.839529552484649
-Department Stores,-12.845573862049688
-Apparel Retail,-13.682969102231112
-Electronic Gaming & Multimedia,-13.917525773195877
-Marine Shipping,-14.184797965526974
-Broadcasting,-18.630399427832785
-Rental & Leasing Services,-21.06666666666666
-Drug Manufacturers-Specialty & Generic,-25.58870695957701
-Oil & Gas Midstream,-28.867235079171728
-Household & Personal Products,-44.66883700044903
+Sector,pct change,Year
+Coking Coal,66.66666666666667,2016
+Steel,61.36824460898472,2016
+Education & Training Services,53.589951132273896,2016
+Recreational Vehicles,48.42756634099019,2016
+Credit Services,46.10154342443108,2016
+Oil & Gas Drilling,45.35711428390647,2016
+Industrial Distribution,45.07545227752482,2016
+Tools & Accessories,42.06106870229008,2016
+Agricultural Inputs,41.20104438642297,2016
+Security & Protection Services,40.23968042609853,2016
+Electronic Components,39.898000375483754,2016
+Entertainment,39.87301587301587,2016
+Other Industrial Metals & Mining,38.15656565656566,2016
+Railroads,37.761732851985556,2016
+Specialty Chemicals,37.43741797939406,2016
+Farm & Heavy Construction Machinery,36.814623758833605,2016
+Specialty Industrial Machinery,36.377318864388286,2016
+Semiconductor Equipment & Materials,35.948160620324835,2016
+Conglomerates,35.05530253741054,2016
+Medical Instruments & Supplies,34.68156854915176,2016
+Airlines,33.528213013176874,2016
+Banks-Regional,33.44256058062167,2016
+Packaged Foods,33.39440339939854,2016
+Internet Retail,33.23076923076923,2016
+Oil & Gas Equipment & Services,33.03588064846214,2016
+Insurance-Specialty,32.45719865203307,2016
+Computer Hardware,32.341195333431784,2016
+Consumer Electronics,32.12933654655942,2016
+Auto & Truck Dealerships,31.61940402112979,2016
+Specialty Business Services,31.29852170818086,2016
+Biotechnology,31.056018006423734,2016
+Waste Management,30.88504577822991,2016
+Building Materials,30.56488549618321,2016
+Trucking,30.262755456971856,2016
+Airports & Air Services,29.568552253116014,2016
+Building Products & Equipment,29.48428242520389,2016
+Paper & Paper Products,29.25524985957125,2016
+Engineering & Construction,28.869371587510336,2016
+Capital Markets,28.27074990301383,2016
+Semiconductors,28.202444617572922,2016
+Scientific & Technical Instruments,27.314095465535623,2016
+Telecom Services,26.953191909385495,2016
+Textile Manufacturing,26.792560609861596,2016
+Chemicals,26.72913637803494,2016
+REIT-Residential,26.31414231683569,2016
+Metal Fabrication,25.064074405703213,2016
+Insurance-Property & Casualty,24.373592978015587,2016
+Healthcare Plans,24.25249169435216,2016
+REIT-Diversified,23.89849024484615,2016
+Internet Content & Information,23.002038260684216,2016
+Aluminum,22.397727368417257,2016
+REIT-Hotel & Motel,22.250772108004657,2016
+Pharmaceutical Retailers,21.889900303424366,2016
+REIT-Industrial,21.20525600362483,2016
+REIT-Office,21.104792505505177,2016
+Electronics & Computer Distribution,20.940802333444942,2016
+Consulting Services,20.659964301512094,2016
+Lumber & Wood Production,20.378769491746592,2016
+REIT-Healthcare Facilities,20.25186698089624,2016
+Residential Construction,19.720750990922905,2016
+Resorts & Casinos,19.705197827773475,2016
+Insurance-Life,19.29902395740904,2016
+Software-Application,19.17461858672749,2016
+Business Equipment & Supplies,19.081488494886848,2016
+Home Improvement Retail,19.010931862169535,2016
+Integrated Freight & Logistics,17.132241983299078,2016
+Utilities-Diversified,16.805704097440213,2016
+"Furnishings, Fixtures & Appliances",16.529032967062687,2016
+Real Estate-Diversified,16.26315789473684,2016
+Packaging & Containers,16.056619169504003,2016
+Publishing,15.95446335279388,2016
+Communication Equipment,15.644457777196049,2016
+Discount Stores,15.537883404670442,2016
+REIT-Mortgage,14.628581246215417,2016
+Medical Devices,14.334080547111522,2016
+Auto Parts,14.171982324067603,2016
+Personal Services,13.687036327505396,2016
+Electrical Equipment & Parts,13.402305532509889,2016
+Utilities-Regulated Water,13.169692920094999,2016
+Aerospace & Defense,12.825070904879404,2016
+Diagnostics & Research,12.133047824434524,2016
+Software-Infrastructure,10.452424121126732,2016
+Beverages-Non-Alcoholic,10.358777660021854,2016
+Advertising Agencies,10.304244771471948,2016
+Oil & Gas E&P,10.218370258557297,2016
+Utilities-Regulated Gas,9.535912588888527,2016
+Farm Products,9.219972966365887,2016
+REIT-Retail,8.504920671283806,2016
+Food Distribution,7.435837258305443,2016
+Real Estate Services,7.2902407111821566,2016
+Tobacco,5.799223963991928,2016
+Staffing & Employment Services,5.783088031619683,2016
+Pollution & Treatment Controls,5.253042921204358,2016
+Asset Management,4.645272531556625,2016
+REIT-Specialty,3.3078526072653816,2016
+Information Technology Services,1.8279308832386678,2016
+Medical Distribution,1.813544913573252,2016
+Restaurants,1.366393448793468,2016
+Specialty Retail,-0.2131955294104405,2016
+Insurance-Reinsurance,-0.8658008658008627,2016
+Footwear & Accessories,-1.9254914373157497,2016
+Oil & Gas Refining & Marketing,-3.890868011949312,2016
+Mortgage Finance,-4.307968017645437,2016
+Apparel Manufacturing,-4.507741370353376,2016
+Leisure,-5.060604711886539,2016
+Medical Care Facilities,-5.813829197660913,2016
+Health Information Services,-10.844826148762028,2016
+Insurance Brokers,-11.571230662664505,2016
+Luxury Goods,-12.839529552484649,2016
+Department Stores,-12.845573862049688,2016
+Apparel Retail,-13.682969102231112,2016
+Electronic Gaming & Multimedia,-13.917525773195877,2016
+Marine Shipping,-14.184797965526974,2016
+Broadcasting,-18.630399427832785,2016
+Rental & Leasing Services,-21.06666666666666,2016
+Drug Manufacturers-Specialty & Generic,-25.58870695957701,2016
+Oil & Gas Midstream,-28.867235079171728,2016
+Household & Personal Products,-44.66883700044903,2016
