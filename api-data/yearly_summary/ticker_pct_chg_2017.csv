@@ -1,0 +1,584 @@
+,Ticker,Industry_x,Sector_x,pct change,Industry_y,Sector_y,Full Time Emp
+0,HCI,Financial Services,Insurance-Property & Casualty,-38.32775919732442,Financial Services,Insurance-Property & Casualty,413
+1,OMI,Healthcare,Medical Distribution,-90.04237288135596,Healthcare,Medical Distribution,15400
+2,ABG,Consumer Cyclical,Auto & Truck Dealerships,-2.499999999999991,Consumer Cyclical,Auto & Truck Dealerships,8500
+3,FUL,Basic Materials,Specialty Chemicals,8.353443475032487,Basic Materials,Specialty Chemicals,6369
+4,DHC,Real Estate,REIT-Healthcare Facilities,0.5221932114882396,Real Estate,REIT-Healthcare Facilities,0
+5,FORM,Technology,Semiconductors,20.44728434504793,Technology,Semiconductors,1836
+6,OFIX,Healthcare,Medical Devices,34.29616087751372,Healthcare,Medical Devices,1055
+7,FN,Technology,Electronic Components,-46.794425087108024,Technology,Electronic Components,11506
+8,HLIT,Technology,Communication Equipment,-26.19047619047618,Technology,Communication Equipment,1162
+9,DDD,Technology,Computer Hardware,-90.85648148148145,Technology,Computer Hardware,2472
+10,APEI,Consumer Defensive,Education & Training Services,2.9940119760479043,Consumer Defensive,Education & Training Services,1410
+11,EHTH,Financial Services,Insurance Brokers,29.418537708693155,Financial Services,Insurance Brokers,1500
+12,TNC,Industrials,Specialty Industrial Machinery,4.6799724707501795,Industrials,Specialty Industrial Machinery,4373
+13,TILE,Consumer Cyclical,"Furnishings, Fixtures & Appliances",27.634194831013914,Consumer Cyclical,"Furnishings, Fixtures & Appliances",4110
+14,MXL,Technology,Semiconductors,3.179409538228627,Technology,Semiconductors,697
+15,FCF,Financial Services,Banks-Regional,1.3966480446927447,Financial Services,Banks-Regional,1399
+16,BPFH,Financial Services,Banks-Regional,-6.796116504854374,Financial Services,Banks-Regional,779
+17,OPI,Real Estate,REIT-Office,-3.8834951456310813,Real Estate,REIT-Office,0
+18,MGPI,Consumer Defensive,Packaged Foods,44.8621227887617,Consumer Defensive,Packaged Foods,341
+19,ONTO,Technology,Semiconductors,-3.1701444622792905,Technology,Semiconductors,1340
+20,PLAY,Consumer Cyclical,Restaurants,1.2869313032445184,Consumer Cyclical,Restaurants,15908
+21,AAON,Industrials,Building Products & Equipment,7.493188010899182,Industrials,Building Products & Equipment,2290
+22,FOE,Basic Materials,Specialty Chemicals,40.059347181008896,Basic Materials,Specialty Chemicals,5922
+23,FBK,Financial Services,Banks-Regional,39.366515837104075,Financial Services,Banks-Regional,1377
+24,STC,Financial Services,Insurance-Property & Casualty,-3.2624113475177365,Financial Services,Insurance-Property & Casualty,5300
+25,LL,Consumer Cyclical,Home Improvement Retail,50.111500477859195,Consumer Cyclical,Home Improvement Retail,2090
+26,KN,Technology,Communication Equipment,-22.91950886766712,Technology,Communication Equipment,8500
+27,AAOI,Technology,Semiconductors,18.667371760973026,Technology,Semiconductors,3115
+28,CHUY,Consumer Cyclical,Restaurants,-4.812834224598923,Consumer Cyclical,Restaurants,9000
+29,ADTN,Technology,Communication Equipment,-13.178294573643395,Technology,Communication Equipment,1790
+30,FBP,Financial Services,Banks-Regional,-31.764705882352946,Financial Services,Banks-Regional,2674
+31,SCHL,Communication Services,Publishing,-14.136125654450266,Communication Services,Publishing,8300
+32,GMS,Industrials,Building Products & Equipment,20.722635494155156,Industrials,Building Products & Equipment,5308
+33,RMAX,Real Estate,Real Estate Services,-15.567010309278345,Real Estate,Real Estate Services,500
+34,SAIA,Industrials,Trucking,32.084805653710255,Industrials,Trucking,10400
+35,AHH,Real Estate,REIT-Diversified,11.268512556342564,Real Estate,REIT-Diversified,169
+36,MOV,Consumer Cyclical,Luxury Goods,15.683229813664608,Consumer Cyclical,Luxury Goods,1145
+37,PDCE,Energy,Oil & Gas E&P,-43.46138921226232,Energy,Oil & Gas E&P,540
+38,IIIN,Industrials,Metal Fabrication,-30.790960451977394,Industrials,Metal Fabrication,881
+39,ZYXI,Healthcare,Medical Devices,90.56603773584906,Healthcare,Medical Devices,283
+40,KALU,Basic Materials,Aluminum,26.569957884885355,Basic Materials,Aluminum,2585
+41,MCRI,Consumer Cyclical,Resorts & Casinos,46.98795180722891,Consumer Cyclical,Resorts & Casinos,2300
+42,ANIP,Healthcare,Drug Manufacturers-Specialty & Generic,6.2063615205585725,Healthcare,Drug Manufacturers-Specialty & Generic,338
+43,UCBI,Financial Services,Banks-Regional,0.03553660270078736,Financial Services,Banks-Regional,2414
+44,NMIH,Financial Services,Insurance-Property & Casualty,36.470588235294116,Financial Services,Insurance-Property & Casualty,261
+45,LCII,Consumer Cyclical,Recreational Vehicles,15.576923076923077,Consumer Cyclical,Recreational Vehicles,10500
+46,HVT,Consumer Cyclical,Home Improvement Retail,3.7527593818984455,Consumer Cyclical,Home Improvement Retail,3425
+47,INGN,Healthcare,Medical Devices,45.94390325831373,Healthcare,Medical Devices,1020
+48,LPG,Energy,Oil & Gas Midstream,-37.591240875912405,Energy,Oil & Gas Midstream,585
+49,ABCB,Financial Services,Banks-Regional,6.431535269709546,Financial Services,Banks-Regional,2656
+50,STBA,Financial Services,Banks-Regional,5.501130369253969,Financial Services,Banks-Regional,1201
+51,SBH,Consumer Cyclical,Specialty Retail,-26.86567164179104,Consumer Cyclical,Specialty Retail,30000
+52,GNL,Real Estate,REIT-Office,62.34207968901846,Real Estate,REIT-Office,1
+53,CALM,Consumer Defensive,Farm Products,6.186726659167604,Consumer Defensive,Farm Products,3461
+54,BHLB,Financial Services,Banks-Regional,3.2786885245901716,Financial Services,Banks-Regional,1507
+55,ITGR,Healthcare,Medical Devices,28.47682119205298,Healthcare,Medical Devices,8250
+56,AAT,Real Estate,REIT-Diversified,-12.264644351464428,Real Estate,REIT-Diversified,199
+57,UVV,Consumer Defensive,Tobacco,-29.523809523809526,Consumer Defensive,Tobacco,24000
+58,LXP,Real Estate,REIT-Diversified,-11.088082901554406,Real Estate,REIT-Diversified,57
+59,CRY,Healthcare,Medical Devices,0.7832898172323686,Healthcare,Medical Devices,1200
+60,PTEN,Energy,Oil & Gas Drilling,-21.86006084311168,Energy,Oil & Gas Drilling,5800
+61,NWN,Utilities,Utilities-Regulated Gas,1.2573344509639566,Utilities,Utilities-Regulated Gas,1200
+62,CPK,Utilities,Utilities-Regulated Gas,16.740929344366634,Utilities,Utilities-Regulated Gas,955
+63,PDFS,Technology,Software-Application,-43.37579617834397,Technology,Software-Application,353
+64,AGO,Financial Services,Insurance-Specialty,-14.880425155004428,Financial Services,Insurance-Specialty,441
+65,WWW,Consumer Cyclical,Footwear & Accessories,26.31744040150565,Consumer Cyclical,Footwear & Accessories,4000
+66,KOP,Basic Materials,Specialty Chemicals,20.530451866404707,Basic Materials,Specialty Chemicals,2120
+67,SANM,Technology,Electronic Components,-18.03030303030304,Technology,Electronic Components,30000
+68,PETS,Healthcare,Pharmaceutical Retailers,53.42857142857142,Healthcare,Pharmaceutical Retailers,214
+69,NTUS,Healthcare,Medical Devices,-2.225130890052341,Healthcare,Medical Devices,1484
+70,AWR,Utilities,Utilities-Regulated Water,24.39993092730098,Utilities,Utilities-Regulated Water,841
+71,CORE,Consumer Defensive,Food Distribution,-10.607979734008872,Consumer Defensive,Food Distribution,8555
+72,COKE,Consumer Defensive,Beverages-Non-Alcoholic,21.56461952987085,Consumer Defensive,Beverages-Non-Alcoholic,14800
+73,MSTR,Technology,Software-Application,-53.313023610053314,Technology,Software-Application,2073
+74,TWI,Industrials,Farm & Heavy Construction Machinery,-3.1832298136645836,Industrials,Farm & Heavy Construction Machinery,6200
+75,HMST,Financial Services,Banks-Regional,9.499136442141625,Financial Services,Banks-Regional,999
+76,HTLD,Industrials,Trucking,11.739502999143095,Industrials,Trucking,4050
+77,BLMN,Consumer Cyclical,Restaurants,19.821930646672918,Consumer Cyclical,Restaurants,94000
+78,CSGS,Technology,Software-Infrastructure,-10.451848471017797,Technology,Software-Infrastructure,4339
+79,ARI,Real Estate,REIT-Mortgage,5.636856368563682,Real Estate,REIT-Mortgage,0
+80,IOSP,Basic Materials,Specialty Chemicals,-1.0623229461756374,Basic Materials,Specialty Chemicals,2000
+81,HLX,Energy,Oil & Gas Equipment & Services,-12.466843501326265,Energy,Oil & Gas Equipment & Services,1650
+82,VBTX,Financial Services,Banks-Regional,1.5585357013410646,Financial Services,Banks-Regional,676
+83,ECOL,Industrials,Waste Management,-0.49019607843137253,Industrials,Waste Management,3800
+84,DEA,Real Estate,REIT-Office,7.685098406747894,Real Estate,REIT-Office,37
+85,ITRI,Technology,Scientific & Technical Instruments,9.530791788856305,Technology,Scientific & Technical Instruments,6700
+86,CPS,Consumer Cyclical,Auto Parts,14.057142857142857,Consumer Cyclical,Auto Parts,28000
+87,LNTH,Healthcare,Diagnostics & Research,58.43520782396088,Healthcare,Diagnostics & Research,508
+88,CMO,Real Estate,REIT-Mortgage,-23.35260115606936,Real Estate,REIT-Mortgage,14
+89,MANT,Technology,Software-Application,22.414823670053796,Technology,Software-Application,8900
+90,APOG,Industrials,Building Products & Equipment,-24.819593264815225,Industrials,Building Products & Equipment,7200
+91,RMBS,Technology,Semiconductors,8.720112517580873,Technology,Semiconductors,685
+92,GPI,Consumer Cyclical,Auto & Truck Dealerships,-13.836832464421597,Consumer Cyclical,Auto & Truck Dealerships,15296
+93,PSMT,Consumer Defensive,Discount Stores,1.6260162601625918,Consumer Defensive,Discount Stores,9500
+94,XPER,Technology,Semiconductor Equipment & Materials,-85.24590163934428,Technology,Semiconductor Equipment & Materials,1900
+95,MD,Healthcare,Medical Care Facilities,-27.900449101796404,Healthcare,Medical Care Facilities,9480
+96,CAL,Consumer Cyclical,Footwear & Accessories,8.154121863799274,Consumer Cyclical,Footwear & Accessories,11400
+97,CBB,Communication Services,Telecom Services,-10.071942446043154,Communication Services,Telecom Services,4400
+98,BDN,Real Estate,REIT-Office,11.489829576690488,Real Estate,REIT-Office,337
+99,PLCE,Consumer Cyclical,Apparel Retail,33.26453388372892,Consumer Cyclical,Apparel Retail,3900
+100,PPBI,Financial Services,Banks-Regional,1.6249999999999967,Financial Services,Banks-Regional,989
+101,CHS,Consumer Cyclical,Apparel Retail,-52.94784580498866,Consumer Cyclical,Apparel Retail,4788
+102,GCP,Basic Materials,Specialty Chemicals,15.517241379310342,Basic Materials,Specialty Chemicals,2000
+103,SBCF,Financial Services,Banks-Regional,13.605712019040062,Financial Services,Banks-Regional,968
+104,B,Industrials,Specialty Industrial Machinery,23.929192350244982,Industrials,Specialty Industrial Machinery,5749
+105,DBI,Consumer Cyclical,Apparel Retail,1.1676786548341895,Consumer Cyclical,Apparel Retail,15800
+106,GPRE,Basic Materials,Specialty Chemicals,-33.53115727002966,Basic Materials,Specialty Chemicals,820
+107,AVD,Basic Materials,Agricultural Inputs,12.468193384223916,Basic Materials,Agricultural Inputs,671
+108,CSII,Healthcare,Medical Devices,-4.263402279442794,Healthcare,Medical Devices,779
+109,KNSL,Financial Services,Insurance-Property & Casualty,34.77777777777777,Financial Services,Insurance-Property & Casualty,275
+110,RLGY,Real Estate,Real Estate Services,2.226415094339622,Real Estate,Real Estate Services,10150
+111,SIG,Consumer Cyclical,Luxury Goods,-37.347480106100804,Consumer Cyclical,Luxury Goods,26126
+112,DCOM,Financial Services,Banks-Regional,-2.147971360381858,Financial Services,Banks-Regional,421
+113,SLP,Healthcare,Health Information Services,37.88819875776398,Healthcare,Health Information Services,129
+114,ARCB,Industrials,Trucking,11.608391608391605,Industrials,Trucking,13000
+115,ALG,Industrials,Farm & Heavy Construction Machinery,32.99370957738992,Industrials,Farm & Heavy Construction Machinery,4270
+116,DGII,Technology,Communication Equipment,-36.64921465968586,Technology,Communication Equipment,656
+117,IRET,Real Estate,REIT-Residential,-13.380281690140858,Real Estate,REIT-Residential,361
+118,PRLB,Industrials,Metal Fabrication,49.029126213592235,Industrials,Metal Fabrication,2535
+119,MTSC,Technology,Scientific & Technical Instruments,-8.193668528864057,Technology,Scientific & Technical Instruments,3500
+120,CMTL,Technology,Communication Equipment,51.49186256781193,Technology,Communication Equipment,2034
+121,GTLS,Industrials,Specialty Industrial Machinery,17.221510883482715,Industrials,Specialty Industrial Machinery,5743
+122,AMCX,Communication Services,Broadcasting,-6.0465976331361,Communication Services,Broadcasting,2114
+123,COOP,Financial Services,Mortgage Finance,-82.54622541514546,Financial Services,Mortgage Finance,9100
+124,AGYS,Technology,Software-Application,20.765472312703576,Technology,Software-Application,1275
+125,REX,Energy,Oil & Gas Refining & Marketing,-0.2898900833433928,Energy,Oil & Gas Refining & Marketing,128
+126,MED,Consumer Cyclical,Personal Services,39.59318149262283,Consumer Cyclical,Personal Services,550
+127,PRSC,Healthcare,Medical Care Facilities,34.86686889113583,Healthcare,Medical Care Facilities,3800
+128,CIR,Industrials,Specialty Industrial Machinery,-27.937551355792937,Industrials,Specialty Industrial Machinery,3200
+129,WIRE,Industrials,Electrical Equipment & Parts,13.155190133607398,Industrials,Electrical Equipment & Parts,1380
+130,SKYW,Industrials,Airlines,33.333333333333336,Industrials,Airlines,13700
+131,LDL,Industrials,Specialty Industrial Machinery,-20.19704433497537,Industrials,Specialty Industrial Machinery,3250
+132,HUBG,Industrials,Integrated Freight & Logistics,7.411273486430058,Industrials,Integrated Freight & Logistics,5000
+133,DBD,Technology,Software-Application,-66.36085626911313,Technology,Software-Application,22000
+134,WD,Financial Services,Mortgage Finance,33.873684210526314,Financial Services,Mortgage Finance,861
+135,FBNC,Financial Services,Banks-Regional,17.10563579722459,Financial Services,Banks-Regional,1065
+136,CHRS,Healthcare,Biotechnology,-217.0454545454545,Healthcare,Biotechnology,306
+137,ESE,Technology,Scientific & Technical Instruments,3.402489626556012,Technology,Scientific & Technical Instruments,2713
+138,BHE,Technology,Electronic Components,-5.154639175257731,Technology,Electronic Components,10600
+139,CCS,Consumer Cyclical,Residential Construction,26.848874598070744,Consumer Cyclical,Residential Construction,1460
+140,MDC,Consumer Cyclical,Residential Construction,15.181932245922209,Consumer Cyclical,Residential Construction,1656
+141,SBSI,Financial Services,Banks-Regional,-1.4251781472683993,Financial Services,Banks-Regional,845
+142,WNC,Industrials,Farm & Heavy Construction Machinery,18.66359447004609,Industrials,Farm & Heavy Construction Machinery,6900
+143,VECO,Technology,Semiconductor Equipment & Materials,-73.4006734006734,Technology,Semiconductor Equipment & Materials,954
+144,IPAR,Consumer Defensive,Household & Personal Products,21.518987341772153,Consumer Defensive,Household & Personal Products,402
+145,VRTV,Industrials,Business Equipment & Supplies,-93.9446366782007,Industrials,Business Equipment & Supplies,8000
+146,DFIN,Financial Services,Capital Markets,-23.550538737814264,Financial Services,Capital Markets,2900
+147,LOCO,Consumer Cyclical,Restaurants,-25.757575757575747,Consumer Cyclical,Restaurants,5005
+148,UFCS,Financial Services,Insurance-Property & Casualty,-3.5541904344010633,Financial Services,Insurance-Property & Casualty,1173
+149,OMCL,Healthcare,Health Information Services,25.979381443298973,Healthcare,Health Information Services,2670
+150,TUP,Consumer Cyclical,Packaging & Containers,3.7320574162679474,Consumer Cyclical,Packaging & Containers,11300
+151,AXL,Consumer Cyclical,Auto Parts,-19.788608338226645,Consumer Cyclical,Auto Parts,20000
+152,NX,Industrials,Building Products & Equipment,15.598290598290593,Industrials,Building Products & Equipment,3767
+153,DXPE,Industrials,Industrial Distribution,-27.899898545823472,Industrials,Industrial Distribution,2747
+154,GIII,Consumer Cyclical,Apparel Retail,28.81539712659257,Consumer Cyclical,Apparel Retail,4000
+155,BKU,Financial Services,Banks-Regional,6.188605108055,Financial Services,Banks-Regional,1493
+156,CPF,Financial Services,Banks-Regional,-5.0284948038887025,Financial Services,Banks-Regional,789
+157,SWM,Basic Materials,Paper & Paper Products,2.27072310405644,Basic Materials,Paper & Paper Products,3400
+158,RC,Real Estate,REIT-Mortgage,12.871287128712877,Real Estate,REIT-Mortgage,500
+159,TGI,Industrials,Aerospace & Defense,1.65441176470588,Industrials,Aerospace & Defense,9989
+160,SPSC,Technology,Software-Infrastructure,-42.00452768059271,Technology,Software-Infrastructure,1363
+161,MTRN,Basic Materials,Other Industrial Metals & Mining,19.13580246913581,Basic Materials,Other Industrial Metals & Mining,2600
+162,EAT,Consumer Cyclical,Restaurants,-14.572605561277024,Consumer Cyclical,Restaurants,62200
+163,HZO,Consumer Cyclical,Specialty Retail,-13.492063492063497,Consumer Cyclical,Specialty Retail,1736
+164,IVR,Real Estate,REIT-Mortgage,18.283791362871554,Real Estate,REIT-Mortgage,0
+165,RRC,Energy,Oil & Gas E&P,-89.56623681125443,Energy,Oil & Gas E&P,655
+166,MTOR,Consumer Cyclical,Auto Parts,38.491048593350385,Consumer Cyclical,Auto Parts,8600
+167,EVTC,Technology,Software-Infrastructure,-24.908424908424912,Technology,Software-Infrastructure,2300
+168,VIVO,Healthcare,Diagnostics & Research,6.428571428571431,Healthcare,Diagnostics & Research,0
+169,PIPR,Financial Services,Capital Markets,18.26086956521739,Financial Services,Capital Markets,1510
+170,CATM,Industrials,Business Equipment & Supplies,-194.70842332613393,Industrials,Business Equipment & Supplies,1987
+171,HP,Energy,Oil & Gas Drilling,-10.08663366336633,Energy,Oil & Gas Drilling,4138
+172,CROX,Consumer Cyclical,Footwear & Accessories,42.24683544303798,Consumer Cyclical,Footwear & Accessories,3803
+173,RCII,Industrials,Rental & Leasing Services,19.27927927927927,Industrials,Rental & Leasing Services,14500
+174,ODP,Consumer Cyclical,Specialty Retail,-25.70621468926554,Consumer Cyclical,Specialty Retail,40000
+175,WETF,Financial Services,Asset Management,17.92828685258964,Financial Services,Asset Management,211
+176,ROG,Technology,Electronic Components,50.62376482213439,Technology,Electronic Components,3600
+177,MATW,Industrials,Conglomerates,-27.74621212121213,Industrials,Conglomerates,11000
+178,EXTN,Energy,Oil & Gas Equipment & Services,1.3358778625954253,Energy,Oil & Gas Equipment & Services,3600
+179,RUTH,Consumer Cyclical,Restaurants,20.785219399538107,Consumer Cyclical,Restaurants,5740
+180,EZPW,Financial Services,Credit Services,18.852459016393436,Financial Services,Credit Services,6800
+181,UIHC,Financial Services,Insurance-Property & Casualty,20.753623188405797,Financial Services,Insurance-Property & Casualty,363
+182,VICR,Technology,Electronic Components,26.794258373205732,Technology,Electronic Components,993
+183,DRQ,Energy,Oil & Gas Equipment & Services,-30.398322851153036,Energy,Oil & Gas Equipment & Services,1444
+184,SXC,Basic Materials,Coking Coal,26.438698915763137,Basic Materials,Coking Coal,1171
+185,BANR,Financial Services,Banks-Regional,-1.8142235123367199,Financial Services,Banks-Regional,2198
+186,SUPN,Healthcare,Drug Manufacturers-Specialty & Generic,32.12045169385195,Healthcare,Drug Manufacturers-Specialty & Generic,464
+187,TPRE,Financial Services,Insurance-Reinsurance,21.84300341296929,Financial Services,Insurance-Reinsurance,35
+188,COHU,Technology,Semiconductor Equipment & Materials,39.863325740318906,Technology,Semiconductor Equipment & Materials,3200
+189,KRG,Real Estate,REIT-Retail,-22.551020408163254,Real Estate,REIT-Retail,133
+190,JRVR,Financial Services,Insurance-Specialty,0.8997750562359396,Financial Services,Insurance-Specialty,800
+191,DSPG,Technology,Semiconductors,13.200000000000003,Technology,Semiconductors,340
+192,POWI,Technology,Semiconductors,3.4670292318150877,Technology,Semiconductors,699
+193,EXTR,Technology,Communication Equipment,55.83067092651757,Technology,Communication Equipment,2584
+194,IRT,Real Estate,REIT-Residential,8.523290386521303,Real Estate,REIT-Residential,410
+195,SJI,Utilities,Utilities-Diversified,-5.667627281460133,Utilities,Utilities-Diversified,1100
+196,PGTI,Industrials,Building Products & Equipment,31.750741839762618,Industrials,Building Products & Equipment,3000
+197,RRGB,Consumer Cyclical,Restaurants,15.69148936170213,Consumer Cyclical,Restaurants,24586
+198,BCPC,Basic Materials,Specialty Chemicals,-5.756823821339951,Basic Materials,Specialty Chemicals,1341
+199,HFWA,Financial Services,Banks-Regional,17.20779220779221,Financial Services,Banks-Regional,857
+200,AIT,Industrials,Industrial Distribution,11.233480176211442,Industrials,Industrial Distribution,6141
+201,AMN,Healthcare,Medical Care Facilities,27.208121827411162,Healthcare,Medical Care Facilities,3236
+202,CPE,Energy,Oil & Gas E&P,-25.761316872427976,Energy,Oil & Gas E&P,475
+203,ANDE,Consumer Defensive,Food Distribution,-21.18780096308187,Consumer Defensive,Food Distribution,2247
+204,EGBN,Financial Services,Banks-Regional,-5.785837651122628,Financial Services,Banks-Regional,515
+205,LMAT,Healthcare,Medical Instruments & Supplies,28.674623115577884,Healthcare,Medical Instruments & Supplies,454
+206,ZEUS,Basic Materials,Steel,-4.69986040018614,Basic Materials,Steel,1551
+207,SM,Energy,Oil & Gas E&P,-38.179347826086975,Energy,Oil & Gas E&P,530
+208,CENTA,Consumer Defensive,Packaged Foods,18.37708830548926,Consumer Defensive,Packaged Foods,5600
+209,CATO,Consumer Cyclical,Apparel Retail,-59.48492462311559,Consumer Cyclical,Apparel Retail,10060
+210,OSPN,Technology,Software-Application,-9.352517985611502,Technology,Software-Application,789
+211,BANF,Financial Services,Banks-Regional,-84.4574780058651,Financial Services,Banks-Regional,1948
+212,IIPR,Real Estate,REIT-Industrial,42.47137109254101,Real Estate,REIT-Industrial,14
+213,CRMT,Consumer Cyclical,Auto & Truck Dealerships,6.047032474804022,Consumer Cyclical,Auto & Truck Dealerships,1750
+214,LQDT,Consumer Cyclical,Internet Retail,-101.03092783505157,Consumer Cyclical,Internet Retail,574
+215,PKE,Industrials,Aerospace & Defense,6.717557251908398,Industrials,Aerospace & Defense,136
+216,EXLS,Technology,Information Technology Services,23.860811930405962,Technology,Information Technology Services,31700
+217,VNDA,Healthcare,Biotechnology,6.907894736842099,Healthcare,Biotechnology,284
+218,LCI,Healthcare,Drug Manufacturers-Specialty & Generic,13.146551724137934,Healthcare,Drug Manufacturers-Specialty & Generic,954
+219,RCM,Healthcare,Health Information Services,44.78458049886621,Healthcare,Health Information Services,19000
+220,NBR,Energy,Oil & Gas Drilling,-137.92093704245974,Energy,Oil & Gas Drilling,14000
+221,GFF,Industrials,Tools & Accessories,-25.061425061425048,Industrials,Tools & Accessories,7400
+222,IBP,Industrials,Building Products & Equipment,46.14878209348256,Industrials,Building Products & Equipment,8500
+223,HOPE,Financial Services,Banks-Regional,-14.575342465753424,Financial Services,Banks-Regional,1416
+224,IRBT,Technology,Consumer Electronics,21.043024771838333,Technology,Consumer Electronics,1159
+225,WDR,Financial Services,Asset Management,19.20322291853178,Financial Services,Asset Management,1162
+226,ROIC,Real Estate,REIT-Retail,-6.265664160401002,Real Estate,REIT-Retail,73
+227,NFBK,Financial Services,Banks-Regional,-5.67915690866512,Financial Services,Banks-Regional,357
+228,NSA,Real Estate,REIT-Industrial,18.378576669112256,Real Estate,REIT-Industrial,459
+229,SKT,Real Estate,REIT-Retail,-28.970199924556756,Real Estate,REIT-Retail,285
+230,RDNT,Healthcare,Diagnostics & Research,42.57425742574257,Healthcare,Diagnostics & Research,6165
+231,AMPH,Healthcare,Drug Manufacturers-Specialty & Generic,18.139293139293134,Healthcare,Drug Manufacturers-Specialty & Generic,2027
+232,TTMI,Technology,Electronic Components,5.36056158264199,Technology,Electronic Components,25700
+233,RPAI,Real Estate,REIT-Retail,-11.38392857142858,Real Estate,REIT-Retail,215
+234,SWN,Energy,Oil & Gas E&P,-61.469534050179206,Energy,Oil & Gas E&P,923
+235,PMT,Real Estate,REIT-Mortgage,-5.476042314872427,Real Estate,REIT-Mortgage,1
+236,ECPG,Financial Services,Mortgage Finance,26.484560570071263,Financial Services,Mortgage Finance,7300
+237,FSP,Real Estate,REIT-Office,-18.715083798882677,Real Estate,REIT-Office,37
+238,VRA,Consumer Cyclical,Footwear & Accessories,5.911330049261075,Consumer Cyclical,Footwear & Accessories,2700
+239,AMWD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",45.33589251439539,Consumer Cyclical,"Furnishings, Fixtures & Appliances",9900
+240,EBIX,Technology,Software-Application,29.96845425867508,Technology,Software-Application,7975
+241,CEVA,Technology,Semiconductors,23.401950162513536,Technology,Semiconductors,382
+242,TG,Basic Materials,Specialty Chemicals,-15.885416666666671,Basic Materials,Specialty Chemicals,3000
+243,TRHC,Healthcare,Health Information Services,49.87522281639929,Healthcare,Health Information Services,1286
+244,GHL,Financial Services,Capital Markets,-51.53846153846155,Financial Services,Capital Markets,405
+245,AJRD,Industrials,Aerospace & Defense,41.955128205128204,Industrials,Aerospace & Defense,4814
+246,MMSI,Healthcare,Medical Instruments & Supplies,41.20370370370371,Healthcare,Medical Instruments & Supplies,6000
+247,AZZ,Industrials,Electrical Equipment & Parts,-16.536203522504884,Industrials,Electrical Equipment & Parts,4343
+248,MRTN,Industrials,Trucking,-12.561576354679808,Industrials,Trucking,4087
+249,MIK,Consumer Cyclical,Specialty Retail,18.685407193054978,Consumer Cyclical,Specialty Retail,12000
+250,SPOK,Communication Services,Telecom Services,-31.309904153354633,Communication Services,Telecom Services,613
+251,ECHO,Industrials,Integrated Freight & Logistics,15.178571428571427,Industrials,Integrated Freight & Logistics,2513
+252,CENX,Basic Materials,Aluminum,21.58859470468432,Basic Materials,Aluminum,2079
+253,BKE,Consumer Cyclical,Apparel Retail,10.947368421052637,Consumer Cyclical,Apparel Retail,2800
+254,GES,Consumer Cyclical,Apparel Retail,24.348341232227487,Consumer Cyclical,Apparel Retail,15800
+255,AKR,Real Estate,REIT-Retail,-16.374269005847957,Real Estate,REIT-Retail,118
+256,EXPO,Industrials,Consulting Services,18.354430379746834,Industrials,Consulting Services,901
+257,RPT,Real Estate,REIT-Retail,-10.386965376782085,Real Estate,REIT-Retail,104
+258,KWR,Basic Materials,Specialty Chemicals,14.782147357251802,Basic Materials,Specialty Chemicals,4500
+259,TRST,Financial Services,Banks-Regional,8.695652173913032,Financial Services,Banks-Regional,771
+260,LMNX,Healthcare,Medical Instruments & Supplies,-2.6395939086294398,Healthcare,Medical Instruments & Supplies,1257
+261,AMSF,Financial Services,Insurance-Specialty,-2.353896103896097,Financial Services,Insurance-Specialty,431
+262,BOOM,Energy,Oil & Gas Equipment & Services,36.32734530938124,Energy,Oil & Gas Equipment & Services,741
+263,HI,Industrials,Specialty Industrial Machinery,18.232662192393747,Industrials,Specialty Industrial Machinery,11000
+264,BCEI,Energy,Oil & Gas E&P,91.51866618339979,Energy,Oil & Gas E&P,125
+265,EGHT,Technology,Software-Application,-12.411347517730496,Technology,Software-Application,1675
+266,ALEX,Real Estate,REIT-Diversified,-60.49026676279743,Real Estate,REIT-Diversified,793
+267,WSR,Real Estate,REIT-Retail,3.4698126301179735,Real Estate,REIT-Retail,85
+268,EGRX,Healthcare,Drug Manufacturers-Specialty & Generic,-29.558217895919114,Healthcare,Drug Manufacturers-Specialty & Generic,108
+269,KRA,Basic Materials,Specialty Chemicals,44.2391529997924,Basic Materials,Specialty Chemicals,1944
+270,SITC,Real Estate,REIT-Retail,-69.41964285714283,Real Estate,REIT-Retail,361
+271,AIN,Consumer Cyclical,Textile Manufacturing,22.78275020341741,Consumer Cyclical,Textile Manufacturing,4000
+272,UFI,Consumer Cyclical,Textile Manufacturing,25.034848062447722,Consumer Cyclical,Textile Manufacturing,2560
+273,DLX,Communication Services,Advertising Agencies,5.192608016658002,Communication Services,Advertising Agencies,6388
+274,ACLS,Technology,Semiconductor Equipment & Materials,47.038327526132406,Technology,Semiconductor Equipment & Materials,960
+275,UHT,Real Estate,REIT-Healthcare Facilities,17.29463453601385,Real Estate,REIT-Healthcare Facilities,0
+276,PFBC,Financial Services,Banks-Regional,5.733242599523655,Financial Services,Banks-Regional,279
+277,HNGR,Healthcare,Medical Care Facilities,23.682539682539687,Healthcare,Medical Care Facilities,4800
+278,KLIC,Technology,Semiconductor Equipment & Materials,27.773212818405923,Technology,Semiconductor Equipment & Materials,2544
+279,MPAA,Consumer Cyclical,Auto Parts,-4.961984793917575,Consumer Cyclical,Auto Parts,4012
+280,CNSL,Communication Services,Telecom Services,-115.83264971287942,Communication Services,Telecom Services,3400
+281,GME,Consumer Cyclical,Specialty Retail,-36.43454038997214,Consumer Cyclical,Specialty Retail,14000
+282,MTRX,Energy,Oil & Gas Equipment & Services,-25.842696629213467,Energy,Oil & Gas Equipment & Services,2900
+283,ANIK,Healthcare,Biotechnology,6.251159339640136,Healthcare,Biotechnology,154
+284,BNED,Consumer Cyclical,Specialty Retail,-21.96601941747573,Consumer Cyclical,Specialty Retail,3400
+285,GDOT,Financial Services,Credit Services,55.52605376700962,Financial Services,Credit Services,1200
+286,SPTN,Consumer Defensive,Food Distribution,-41.904047976011995,Consumer Defensive,Food Distribution,10400
+287,STMP,Technology,Software-Application,35.34574468085106,Technology,Software-Application,1313
+288,PVAC,Energy,Oil & Gas E&P,-30.401431858859628,Energy,Oil & Gas E&P,94
+289,WDFC,Basic Materials,Specialty Chemicals,10.88983050847457,Basic Materials,Specialty Chemicals,522
+290,SAFT,Financial Services,Insurance-Property & Casualty,10.820895522388062,Financial Services,Insurance-Property & Casualty,609
+291,ETH,Consumer Cyclical,"Furnishings, Fixtures & Appliances",-1.7482517482517481,Consumer Cyclical,"Furnishings, Fixtures & Appliances",3369
+292,CHCT,Real Estate,REIT-Healthcare Facilities,23.238434163701072,Real Estate,REIT-Healthcare Facilities,25
+293,NSIT,Technology,Information Technology Services,3.029511621833368,Technology,Information Technology Services,11261
+294,OFG,Financial Services,Banks-Regional,-40.95744680851063,Financial Services,Banks-Regional,2405
+295,SAH,Consumer Cyclical,Auto & Truck Dealerships,-26.829268292682922,Consumer Cyclical,Auto & Truck Dealerships,9300
+296,VRTU,Technology,Information Technology Services,42.19600725952813,Technology,Information Technology Services,22883
+297,DIN,Consumer Cyclical,Restaurants,-35.18628030751035,Consumer Cyclical,Restaurants,558
+298,FORR,Industrials,Consulting Services,7.692307692307705,Industrials,Consulting Services,1823
+299,UIS,Technology,Information Technology Services,-57.66871165644171,Technology,Information Technology Services,20800
+300,NXRT,Real Estate,REIT-Residential,17.287043664996425,Real Estate,REIT-Residential,3
+301,FBC,Financial Services,Banks-Regional,31.133083912346343,Financial Services,Banks-Regional,4871
+302,LTC,Real Estate,REIT-Healthcare Facilities,-7.164179104477624,Real Estate,REIT-Healthcare Facilities,22
+303,ZUMZ,Consumer Cyclical,Apparel Retail,3.721488595438169,Consumer Cyclical,Apparel Retail,2575
+304,HIBB,Consumer Cyclical,Specialty Retail,-61.764705882352956,Consumer Cyclical,Specialty Retail,3500
+305,SMP,Consumer Cyclical,Auto Parts,-11.044310843910045,Consumer Cyclical,Auto Parts,4200
+306,CHEF,Consumer Defensive,Food Distribution,18.53658536585366,Consumer Defensive,Food Distribution,2447
+307,RNST,Financial Services,Banks-Regional,2.665688432379563,Financial Services,Banks-Regional,2527
+308,PLXS,Technology,Electronic Components,10.573122529644271,Technology,Electronic Components,19500
+309,TBK,Financial Services,Banks-Regional,14.126984126984125,Financial Services,Banks-Regional,1122
+310,DIOD,Technology,Semiconductors,13.184513428671089,Technology,Semiconductors,6605
+311,TVTY,Healthcare,Medical Care Facilities,29.822161422708614,Healthcare,Medical Care Facilities,1000
+312,M,Consumer Cyclical,Department Stores,-17.268757443429923,Consumer Cyclical,Department Stores,123000
+313,VG,Communication Services,Telecom Services,30.28515240904622,Communication Services,Telecom Services,2264
+314,MHO,Consumer Cyclical,Residential Construction,26.918604651162788,Consumer Cyclical,Residential Construction,1401
+315,TTGT,Communication Services,Internet Content & Information,36.70977011494252,Communication Services,Internet Content & Information,649
+316,CAMP,Technology,Communication Equipment,29.9113392440504,Technology,Communication Equipment,1080
+317,RES,Energy,Oil & Gas Equipment & Services,15.707011359185277,Energy,Oil & Gas Equipment & Services,2700
+318,HSC,Industrials,Specialty Industrial Machinery,28.418230563002677,Industrials,Specialty Industrial Machinery,10500
+319,SXI,Industrials,Specialty Industrial Machinery,14.383897889052522,Industrials,Specialty Industrial Machinery,3800
+320,POWL,Industrials,Electrical Equipment & Parts,-34.310645724258286,Industrials,Electrical Equipment & Parts,1997
+321,FARO,Technology,Scientific & Technical Instruments,21.063829787234038,Technology,Scientific & Technical Instruments,1818
+322,THRM,Consumer Cyclical,Auto Parts,-11.49606299212598,Consumer Cyclical,Auto Parts,11000
+323,OSUR,Healthcare,Medical Instruments & Supplies,53.23435843054083,Healthcare,Medical Instruments & Supplies,472
+324,BCOR,Financial Services,Asset Management,31.674208144796385,Financial Services,Asset Management,690
+325,PFS,Financial Services,Banks-Regional,1.8539117538005194,Financial Services,Banks-Regional,968
+326,FOSL,Consumer Cyclical,Luxury Goods,-229.08622908622908,Consumer Cyclical,Luxury Goods,10200
+327,AIR,Industrials,Aerospace & Defense,18.57979129549504,Industrials,Aerospace & Defense,4200
+328,ROCK,Industrials,Building Products & Equipment,-33.030303030303024,Industrials,Building Products & Equipment,1932
+329,RWT,Real Estate,REIT-Mortgage,-4.588394062078271,Real Estate,REIT-Mortgage,372
+330,NBHC,Financial Services,Banks-Regional,-0.21584952204748778,Financial Services,Banks-Regional,1229
+331,HMN,Financial Services,Insurance-Property & Casualty,6.235827664399093,Financial Services,Insurance-Property & Casualty,1538
+332,ANF,Consumer Cyclical,Apparel Retail,33.39070567986231,Consumer Cyclical,Apparel Retail,8000
+333,DRH,Real Estate,REIT-Hotel & Motel,0.17714791851195372,Real Estate,REIT-Hotel & Motel,31
+334,CASH,Financial Services,Banks-Regional,5.180787911494885,Financial Services,Banks-Regional,1015
+335,GEO,Real Estate,REIT-Healthcare Facilities,-75.9322033898305,Real Estate,REIT-Healthcare Facilities,23000
+336,GLT,Basic Materials,Paper & Paper Products,-13.852611940298502,Basic Materials,Paper & Paper Products,2557
+337,CRS,Industrials,Metal Fabrication,21.514022357324965,Industrials,Metal Fabrication,4600
+338,HWKN,Basic Materials,Specialty Chemicals,-52.414772727272705,Basic Materials,Specialty Chemicals,656
+339,RAVN,Industrials,Specialty Industrial Machinery,27.074235807860266,Industrials,Specialty Industrial Machinery,1362
+340,LZB,Consumer Cyclical,"Furnishings, Fixtures & Appliances",8.333333333333327,Consumer Cyclical,"Furnishings, Fixtures & Appliances",9500
+341,NYMT,Real Estate,REIT-Mortgage,-3.88978930307942,Real Estate,REIT-Mortgage,55
+342,CFFN,Financial Services,Banks-Regional,-15.21252796420581,Financial Services,Banks-Regional,668
+343,VIAV,Technology,Communication Equipment,-2.4027459954233303,Technology,Communication Equipment,3600
+344,NBTB,Financial Services,Banks-Regional,-10.70652173913045,Financial Services,Banks-Regional,1788
+345,TCMD,Healthcare,Medical Devices,46.82539682539682,Healthcare,Medical Devices,629
+346,PLAB,Technology,Semiconductor Equipment & Materials,-34.89736070381231,Technology,Semiconductor Equipment & Materials,1728
+347,CNMD,Healthcare,Medical Devices,12.517166960957418,Healthcare,Medical Devices,3300
+348,BJRI,Consumer Cyclical,Restaurants,2.335164835164839,Consumer Cyclical,Restaurants,22725
+349,GKOS,Healthcare,Medical Instruments & Supplies,-60.70175438596491,Healthcare,Medical Instruments & Supplies,600
+350,JBSS,Consumer Defensive,Packaged Foods,-4.015810276679852,Consumer Defensive,Packaged Foods,1370
+351,NPO,Industrials,Specialty Industrial Machinery,27.376751149609674,Industrials,Specialty Industrial Machinery,5300
+352,QNST,Communication Services,Advertising Agencies,58.233890214797135,Communication Services,Advertising Agencies,592
+353,MEI,Technology,Electronic Components,-4.862842892768069,Technology,Electronic Components,6044
+354,JJSF,Consumer Defensive,Packaged Foods,15.978396891259974,Consumer Defensive,Packaged Foods,4100
+355,EGOV,Technology,Software-Application,-45.18072289156626,Technology,Software-Application,1000
+356,VGR,Consumer Defensive,Tobacco,1.4298480786416456,Consumer Defensive,Tobacco,1418
+357,QEP,Energy,Oil & Gas E&P,-82.23615464994776,Energy,Oil & Gas E&P,248
+358,GLUU,Communication Services,Electronic Gaming & Multimedia,36.813186813186825,Communication Services,Electronic Gaming & Multimedia,715
+359,CRVL,Financial Services,Insurance Brokers,27.5047258979206,Financial Services,Insurance Brokers,3824
+360,WGO,Consumer Cyclical,Recreational Vehicles,43.52517985611511,Consumer Cyclical,Recreational Vehicles,5505
+361,RYAM,Basic Materials,Chemicals,33.64303178484107,Basic Materials,Chemicals,4000
+362,BIG,Consumer Defensive,Discount Stores,10.952804986642919,Consumer Defensive,Discount Stores,10500
+363,NTGR,Technology,Communication Equipment,3.1489361702127683,Technology,Communication Equipment,803
+364,FSS,Industrials,Pollution & Treatment Controls,22.64808362369338,Industrials,Pollution & Treatment Controls,3600
+365,VRTS,Financial Services,Asset Management,5.258583224684918,Financial Services,Asset Management,578
+366,FRGI,Consumer Cyclical,Restaurants,-38.42105263157895,Consumer Cyclical,Restaurants,10480
+367,MGLN,Healthcare,Healthcare Plans,22.371828068358358,Healthcare,Healthcare Plans,10100
+368,BOOT,Consumer Cyclical,Apparel Retail,34.67790487658037,Consumer Cyclical,Apparel Retail,1100
+369,LNN,Industrials,Farm & Heavy Construction Machinery,14.580498866213151,Industrials,Farm & Heavy Construction Machinery,1125
+370,XNCR,Healthcare,Biotechnology,-8.713503649635019,Healthcare,Biotechnology,166
+371,CENT,Consumer Defensive,Packaged Foods,15.596094552929085,Consumer Defensive,Packaged Foods,5600
+372,UCTT,Technology,Semiconductor Equipment & Materials,45.73408401905587,Technology,Semiconductor Equipment & Materials,3940
+373,INDB,Financial Services,Banks-Regional,10.737294201861122,Financial Services,Banks-Regional,1348
+374,ANGO,Healthcare,Medical Instruments & Supplies,3.217077570655443,Healthcare,Medical Instruments & Supplies,800
+375,DORM,Consumer Cyclical,Auto Parts,-12.88845273143604,Consumer Cyclical,Auto Parts,2732
+376,CPSI,Healthcare,Health Information Services,24.792013311148082,Healthcare,Health Information Services,2000
+377,CORT,Healthcare,Biotechnology,60.631229235880404,Healthcare,Biotechnology,206
+378,REGI,Energy,Oil & Gas Refining & Marketing,26.271186440677972,Energy,Oil & Gas Refining & Marketing,829
+379,CHCO,Financial Services,Banks-Regional,3.527493700904099,Financial Services,Banks-Regional,921
+380,DNOW,Energy,Oil & Gas Equipment & Services,-92.74705349048054,Energy,Oil & Gas Equipment & Services,2600
+381,DAKT,Technology,Computer Hardware,-11.281489594742599,Technology,Computer Hardware,2395
+382,EIG,Financial Services,Insurance-Specialty,17.905405405405396,Financial Services,Insurance-Specialty,704
+383,AMBC,Financial Services,Insurance-Specialty,-30.913642052565717,Financial Services,Insurance-Specialty,103
+384,WTS,Industrials,Specialty Industrial Machinery,13.100724160632,Industrials,Specialty Industrial Machinery,4800
+385,ONB,Financial Services,Banks-Regional,-1.7191977077363938,Financial Services,Banks-Regional,2484
+386,BFS,Real Estate,REIT-Retail,-2.8178137651821893,Real Estate,REIT-Retail,116
+387,BANC,Financial Services,Banks-Regional,23.4866828087167,Financial Services,Banks-Regional,600
+388,MLI,Industrials,Metal Fabrication,-13.632514817950883,Industrials,Metal Fabrication,4964
+389,PRK,Financial Services,Banks-Regional,-6.52884615384616,Financial Services,Banks-Regional,1907
+390,ADC,Real Estate,REIT-Retail,8.825816485225504,Real Estate,REIT-Retail,41
+391,SSP,Communication Services,Broadcasting,-24.63211772232885,Communication Services,Broadcasting,5900
+392,SFBS,Financial Services,Banks-Regional,3.5180722891566285,Financial Services,Banks-Regional,496
+393,TISI,Industrials,Specialty Business Services,-125.503355704698,Industrials,Specialty Business Services,5500
+394,PCRX,Healthcare,Drug Manufacturers-Specialty & Generic,15.772179627601304,Healthcare,Drug Manufacturers-Specialty & Generic,606
+395,FIX,Industrials,Engineering & Construction,22.451317296678116,Industrials,Engineering & Construction,12000
+396,MYGN,Healthcare,Diagnostics & Research,52.88979472994614,Healthcare,Diagnostics & Research,2700
+397,HSII,Industrials,Staffing & Employment Services,8.961303462321789,Industrials,Staffing & Employment Services,1746
+398,BGS,Consumer Defensive,Packaged Foods,-26.173541963015655,Consumer Defensive,Packaged Foods,2952
+399,RGNX,Healthcare,Biotechnology,44.3609022556391,Healthcare,Biotechnology,257
+400,AVA,Utilities,Utilities-Diversified,24.956302194600894,Utilities,Utilities-Diversified,1920
+401,FFBC,Financial Services,Banks-Regional,-4.554079696394684,Financial Services,Banks-Regional,2065
+402,MTDR,Energy,Oil & Gas E&P,15.41920976549952,Energy,Oil & Gas E&P,304
+403,CUBI,Financial Services,Banks-Regional,-32.589457483647564,Financial Services,Banks-Regional,881
+404,CWT,Utilities,Utilities-Regulated Water,23.925027563395812,Utilities,Utilities-Regulated Water,1224
+405,CYH,Healthcare,Medical Care Facilities,-50.234741784037574,Healthcare,Medical Care Facilities,63000
+406,ADUS,Healthcare,Medical Care Facilities,1.867816091954019,Healthcare,Medical Care Facilities,5002
+407,GVA,Industrials,Engineering & Construction,11.508749802932362,Industrials,Engineering & Construction,7000
+408,UNF,Industrials,Specialty Business Services,22.437841115827773,Industrials,Specialty Business Services,14000
+409,ENSG,Healthcare,Medical Care Facilities,8.378378378378375,Healthcare,Medical Care Facilities,24500
+410,KELYA,Industrials,Staffing & Employment Services,17.89512284561789,Industrials,Staffing & Employment Services,7700
+411,TMP,Financial Services,Banks-Regional,-11.309157959434547,Financial Services,Banks-Regional,934
+412,MTH,Consumer Cyclical,Residential Construction,28.222656250000007,Consumer Cyclical,Residential Construction,1510
+413,MLAB,Technology,Scientific & Technical Instruments,4.151246983105388,Technology,Scientific & Technical Instruments,460
+414,LPI,Energy,Oil & Gas E&P,-27.70970782280868,Energy,Oil & Gas E&P,280
+415,MNRO,Consumer Cyclical,Auto Parts,-5.179982440737482,Consumer Cyclical,Auto Parts,8184
+416,WRLD,Financial Services,Credit Services,39.20961347869177,Financial Services,Credit Services,3744
+417,MDP,Communication Services,Publishing,7.1915215745647245,Communication Services,Publishing,5290
+418,CCRN,Industrials,Staffing & Employment Services,-13.401253918495303,Industrials,Staffing & Employment Services,1700
+419,SFNC,Financial Services,Banks-Regional,-5.341506129597192,Financial Services,Banks-Regional,2904
+420,ENTA,Healthcare,Biotechnology,43.54976141785958,Healthcare,Biotechnology,141
+421,CTB,Consumer Cyclical,Auto Parts,-2.545968882602542,Consumer Cyclical,Auto Parts,8720
+422,HAFC,Financial Services,Banks-Regional,-9.225700164744637,Financial Services,Banks-Regional,633
+423,PAHC,Healthcare,Drug Manufacturers-Specialty & Generic,20.29850746268657,Healthcare,Drug Manufacturers-Specialty & Generic,1700
+424,SPPI,Healthcare,Biotechnology,75.4089709762533,Healthcare,Biotechnology,146
+425,FHB,Financial Services,Banks-Regional,-13.0568882796436,Financial Services,Banks-Regional,2099
+426,CVGW,Consumer Defensive,Packaged Foods,34.478672985782,Consumer Defensive,Packaged Foods,3657
+427,BRC,Industrials,Security & Protection Services,4.089709762532974,Industrials,Security & Protection Services,5400
+428,SCL,Basic Materials,Specialty Chemicals,1.0890211472711149,Basic Materials,Specialty Chemicals,2284
+429,PATK,Consumer Cyclical,Recreational Vehicles,-17.710583153347727,Consumer Cyclical,Recreational Vehicles,7500
+430,PBF,Energy,Oil & Gas Refining & Marketing,34.58392101551481,Energy,Oil & Gas Refining & Marketing,3442
+431,PBI,Industrials,Business Equipment & Supplies,-42.39713774597496,Industrials,Business Equipment & Supplies,11000
+432,FLGT,Healthcare,Diagnostics & Research,-198.4018264840183,Healthcare,Diagnostics & Research,473
+433,ASIX,Basic Materials,Chemicals,38.935108153078204,Basic Materials,Chemicals,1520
+434,PRAA,Financial Services,Credit Services,-19.879518072289137,Financial Services,Credit Services,3811
+435,CONN,Consumer Cyclical,Specialty Retail,70.32348804500702,Consumer Cyclical,Specialty Retail,4200
+436,PRA,Financial Services,Insurance-Property & Casualty,4.811898512685914,Financial Services,Insurance-Property & Casualty,961
+437,CBU,Financial Services,Banks-Regional,-8.57674418604651,Financial Services,Banks-Regional,2752
+438,OXM,Consumer Cyclical,Apparel Manufacturing,26.825375714855692,Consumer Cyclical,Apparel Manufacturing,6100
+439,BELFB,Technology,Electronic Components,-26.290706910246232,Technology,Electronic Components,6935
+440,STAR,Real Estate,REIT-Diversified,0.707964601769912,Real Estate,REIT-Diversified,155
+441,BEAT,Healthcare,Diagnostics & Research,22.90969899665551,Healthcare,Diagnostics & Research,1700
+442,SEM,Healthcare,Medical Care Facilities,29.461756373937675,Healthcare,Medical Care Facilities,35700
+443,CVBF,Financial Services,Banks-Regional,4.329371816638369,Financial Services,Banks-Regional,0
+444,UNIT,Real Estate,REIT-Specialty,-47.723440134907264,Real Estate,REIT-Specialty,899
+445,CCOI,Communication Services,Telecom Services,7.72626931567329,Communication Services,Telecom Services,1110
+446,SNBR,Consumer Cyclical,"Furnishings, Fixtures & Appliances",46.315509444001066,Consumer Cyclical,"Furnishings, Fixtures & Appliances",4000
+447,SSTK,Communication Services,Internet Content & Information,-25.02904950034858,Communication Services,Internet Content & Information,1116
+448,CTS,Technology,Electronic Components,16.50485436893204,Technology,Electronic Components,3570
+449,TBI,Industrials,Staffing & Employment Services,10.0,Industrials,Staffing & Employment Services,6200
+450,MCS,Communication Services,Entertainment,-8.409506398537467,Communication Services,Entertainment,3465
+451,ICHR,Technology,Semiconductor Equipment & Materials,37.23577235772358,Technology,Semiconductor Equipment & Materials,1355
+452,USPH,Healthcare,Medical Care Facilities,2.8393351800553974,Healthcare,Medical Care Facilities,3200
+453,NEO,Healthcare,Diagnostics & Research,9.029345372460487,Healthcare,Diagnostics & Research,1700
+454,FELE,Industrials,Specialty Industrial Machinery,12.09150326797385,Industrials,Specialty Industrial Machinery,5500
+455,MYE,Consumer Cyclical,Packaging & Containers,29.230769230769226,Consumer Cyclical,Packaging & Containers,1640
+456,AEIS,Industrials,Electrical Equipment & Parts,12.803793716656786,Industrials,Electrical Equipment & Parts,10917
+457,USCR,Basic Materials,Building Materials,21.69754931261208,Basic Materials,Building Materials,3173
+458,GWB,Financial Services,Banks-Regional,-7.412060301507545,Financial Services,Banks-Regional,1607
+459,SCSC,Technology,Electronics & Computer Distribution,-10.474860335195531,Technology,Electronics & Computer Distribution,2200
+460,IVC,Healthcare,Medical Devices,31.750741839762618,Healthcare,Medical Devices,3900
+461,CLW,Basic Materials,Paper & Paper Products,-38.54625550660793,Basic Materials,Paper & Paper Products,3290
+462,PRFT,Technology,Information Technology Services,7.026743576297849,Technology,Information Technology Services,3454
+463,VTOL,Energy,Oil & Gas Equipment & Services,-45.674418604651166,Energy,Oil & Gas Equipment & Services,0
+464,BCC,Basic Materials,Lumber & Wood Production,37.84461152882205,Basic Materials,Lumber & Wood Production,5900
+465,SENEA,Consumer Defensive,Packaged Foods,-16.58536585365854,Consumer Defensive,Packaged Foods,3200
+466,EPAC,Industrials,Specialty Industrial Machinery,-3.359683794466395,Industrials,Specialty Industrial Machinery,2300
+467,MYRG,Industrials,Engineering & Construction,-7.668625804645962,Industrials,Engineering & Construction,7100
+468,CLF,Basic Materials,Steel,-21.63661581137309,Basic Materials,Steel,2372
+469,OSIS,Technology,Electronic Components,-15.98322460391427,Technology,Electronic Components,6758
+470,FWRD,Industrials,Integrated Freight & Logistics,16.103760445682454,Industrials,Integrated Freight & Logistics,4640
+471,BRKS,Technology,Semiconductor Equipment & Materials,26.96016771488469,Technology,Semiconductor Equipment & Materials,3159
+472,BRKL,Financial Services,Banks-Regional,-0.31847133757962237,Financial Services,Banks-Regional,763
+473,ARR,Real Estate,REIT-Mortgage,18.27371695178849,Real Estate,REIT-Mortgage,0
+474,GCI,Communication Services,Publishing,9.177592371871281,Communication Services,Publishing,21255
+475,ABM,Industrials,Specialty Business Services,-7.078472958642634,Industrials,Specialty Business Services,140000
+476,MATX,Industrials,Marine Shipping,-19.50402144772117,Industrials,Marine Shipping,1988
+477,AEGN,Industrials,Engineering & Construction,8.53322847031065,Industrials,Engineering & Construction,4900
+478,OII,Energy,Oil & Gas Equipment & Services,-31.740775780510884,Energy,Oil & Gas Equipment & Services,9100
+479,TMST,Basic Materials,Steel,-10.994075049374588,Basic Materials,Steel,2055
+480,RGS,Consumer Cyclical,Personal Services,9.374999999999996,Consumer Cyclical,Personal Services,7000
+481,RGR,Industrials,Aerospace & Defense,5.550581915846019,Industrials,Aerospace & Defense,1609
+482,SHEN,Communication Services,Telecom Services,19.378698224852066,Communication Services,Telecom Services,1130
+483,CNXN,Technology,Electronics & Computer Distribution,-4.082411293399467,Technology,Electronics & Computer Distribution,2609
+484,HA,Industrials,Airlines,-27.854454203262236,Industrials,Airlines,7087
+485,PLUS,Technology,Software-Application,-49.002659574468076,Technology,Software-Application,1497
+486,IBTX,Financial Services,Banks-Regional,8.062130177514787,Financial Services,Banks-Regional,1469
+487,RGP,Industrials,Consulting Services,-8.090614886731393,Industrials,Consulting Services,929
+488,GTY,Real Estate,REIT-Retail,5.0441826215022125,Real Estate,REIT-Retail,31
+489,CXW,Real Estate,REIT-Specialty,-29.066666666666663,Real Estate,REIT-Specialty,14075
+490,LPSN,Technology,Software-Application,36.52173913043478,Technology,Software-Application,1213
+491,CUTR,Healthcare,Medical Devices,59.20617420066152,Healthcare,Medical Devices,447
+492,UBA,Real Estate,REIT-Retail,-3.2658693652253956,Real Estate,REIT-Retail,105
+493,ABTX,Financial Services,Banks-Regional,13.811420982735715,Financial Services,Banks-Regional,598
+494,FMBI,Financial Services,Banks-Regional,-1.124531445231152,Financial Services,Banks-Regional,2122
+495,SHOO,Consumer Cyclical,Footwear & Accessories,24.625267665952887,Consumer Cyclical,Footwear & Accessories,2500
+496,HAYN,Industrials,Metal Fabrication,-28.26833073322934,Industrials,Metal Fabrication,1037
+497,BMI,Industrials,Electrical Equipment & Parts,19.351464435146447,Industrials,Electrical Equipment & Parts,1567
+498,ATI,Industrials,Metal Fabrication,9.983429991714997,Industrials,Metal Fabrication,8100
+499,JBT,Industrials,Specialty Industrial Machinery,22.06678700361011,Industrials,Specialty Industrial Machinery,6200
+500,SLCA,Energy,Oil & Gas Equipment & Services,-81.63390663390663,Energy,Oil & Gas Equipment & Services,2177
+501,HT,Real Estate,REIT-Hotel & Motel,-14.885057471264368,Real Estate,REIT-Hotel & Motel,49
+502,PLT,Technology,Communication Equipment,-12.306470821754656,Technology,Communication Equipment,6584
+503,AAWW,Industrials,Airports & Air Services,10.059676044330773,Industrials,Airports & Air Services,3587
+504,ALRM,Technology,Software-Application,28.23841059602649,Technology,Software-Application,1361
+505,CUB,Industrials,Aerospace & Defense,19.338422391857517,Industrials,Aerospace & Defense,6100
+506,WRE,Real Estate,REIT-Office,-1.060411311053979,Real Estate,REIT-Office,125
+507,PRDO,Consumer Defensive,Education & Training Services,19.122516556291394,Consumer Defensive,Education & Training Services,2250
+508,UFPI,Basic Materials,Lumber & Wood Production,-170.36150983519406,Basic Materials,Lumber & Wood Production,12000
+509,PARR,Energy,Oil & Gas Refining & Marketing,24.63692946058092,Energy,Oil & Gas Refining & Marketing,1408
+510,INVA,Healthcare,Biotechnology,25.299506694855534,Healthcare,Biotechnology,5
+511,LGIH,Consumer Cyclical,Residential Construction,58.60322537651606,Consumer Cyclical,Residential Construction,953
+512,AVAV,Industrials,Aerospace & Defense,53.36538461538461,Industrials,Aerospace & Defense,823
+513,FF,Basic Materials,Chemicals,7.806955287437897,Basic Materials,Chemicals,538
+514,SYKE,Technology,Information Technology Services,11.192368839427662,Technology,Information Technology Services,54900
+515,MDRX,Healthcare,Health Information Services,19.51890034364261,Healthcare,Health Information Services,9600
+516,BBBY,Consumer Cyclical,Specialty Retail,-83.49249658935882,Consumer Cyclical,Specialty Retail,55000
+517,VVI,Industrials,Specialty Business Services,20.848375451263536,Industrials,Specialty Business Services,5361
+518,HSTM,Healthcare,Health Information Services,0.8635578583765081,Healthcare,Health Information Services,849
+519,HSKA,Healthcare,Diagnostics & Research,0.73556913103103,Healthcare,Diagnostics & Research,386
+520,ENDP,Healthcare,Drug Manufacturers-Specialty & Generic,-57.935483870967744,Healthcare,Drug Manufacturers-Specialty & Generic,3172
+521,TRUP,Financial Services,Insurance-Specialty,45.37068670994192,Financial Services,Insurance-Specialty,738
+522,CYTK,Healthcare,Biotechnology,-28.220858895705508,Healthcare,Biotechnology,156
+523,COLB,Financial Services,Banks-Regional,8.471454880294658,Financial Services,Banks-Regional,2162
+524,FIZZ,Consumer Defensive,Beverages-Non-Alcoholic,48.491379310344826,Consumer Defensive,Beverages-Non-Alcoholic,1550
+525,SCVL,Consumer Cyclical,Apparel Retail,4.411214953271027,Consumer Cyclical,Apparel Retail,2200
+526,CPRI,Consumer Cyclical,Apparel Manufacturing,31.99364575059571,Consumer Cyclical,Apparel Manufacturing,10834
+527,SRDX,Healthcare,Diagnostics & Research,13.571428571428573,Healthcare,Diagnostics & Research,370
+528,XHR,Real Estate,REIT-Hotel & Motel,15.00694766095414,Real Estate,REIT-Hotel & Motel,48
+529,SNEX,Financial Services,Capital Markets,13.284740183399949,Financial Services,Capital Markets,2950
+530,ASTE,Industrials,Farm & Heavy Construction Machinery,-19.623931623931632,Industrials,Farm & Heavy Construction Machinery,3582
+531,UNFI,Consumer Defensive,Food Distribution,7.245788512279278,Consumer Defensive,Food Distribution,28300
+532,FCPT,Real Estate,REIT-Hotel & Motel,15.136186770428017,Real Estate,REIT-Hotel & Motel,361
+533,CAKE,Consumer Cyclical,Restaurants,-25.07264425072644,Consumer Cyclical,Restaurants,46250
+534,CTRE,Real Estate,REIT-Healthcare Facilities,9.546539379474948,Real Estate,REIT-Healthcare Facilities,52
+535,NPK,Industrials,Aerospace & Defense,-6.988436400201109,Industrials,Aerospace & Defense,919
+536,MMI,Real Estate,Real Estate Services,20.97516099356026,Real Estate,Real Estate Services,877
+537,CLDT,Real Estate,REIT-Hotel & Motel,11.511423550087876,Real Estate,REIT-Hotel & Motel,39
+538,ENVA,Financial Services,Credit Services,7.236842105263156,Financial Services,Credit Services,1325
+539,UEIC,Technology,Consumer Electronics,-25.925925925925924,Technology,Consumer Electronics,4347
+540,KFY,Industrials,Staffing & Employment Services,29.797003383276948,Industrials,Staffing & Employment Services,8198
+541,EPAY,Technology,Software-Infrastructure,25.83621683967705,Technology,Software-Infrastructure,2000
+542,KAMN,Industrials,Aerospace & Defense,14.123045547246774,Industrials,Aerospace & Defense,2935
+543,TSE,Basic Materials,Specialty Chemicals,10.812672176308533,Basic Materials,Specialty Chemicals,2700
+544,NWBI,Financial Services,Banks-Regional,-2.0322773460848764,Financial Services,Banks-Regional,2523
+545,JOE,Real Estate,Real Estate-Diversified,6.6481994459833755,Real Estate,Real Estate-Diversified,55
+546,NP,Basic Materials,Paper & Paper Products,9.376723662437948,Basic Materials,Paper & Paper Products,2324
+547,VSTO,Consumer Cyclical,Leisure,-97.7350720658888,Consumer Cyclical,Leisure,4400
+548,AEL,Financial Services,Insurance-Life,23.202082655385613,Financial Services,Insurance-Life,608
+549,UVE,Financial Services,Insurance-Property & Casualty,4.387568555758694,Financial Services,Insurance-Property & Casualty,805
+550,HMSY,Healthcare,Health Information Services,-7.138643067846613,Healthcare,Health Information Services,3100
+551,IRDM,Communication Services,Telecom Services,14.406779661016959,Communication Services,Telecom Services,497
+552,PRGS,Technology,Software-Application,34.178999295278366,Technology,Software-Application,1538
+553,ALGT,Industrials,Airlines,-11.147011308562197,Industrials,Airlines,4275
+554,SPXC,Industrials,Specialty Industrial Machinery,20.516087926091114,Industrials,Specialty Industrial Machinery,4500
+555,CVCO,Consumer Cyclical,Residential Construction,35.61598951507208,Consumer Cyclical,Residential Construction,5000
+556,NXGN,Healthcare,Health Information Services,-10.530191458026508,Healthcare,Health Information Services,2754
+557,USNA,Consumer Defensive,Household & Personal Products,15.86765698852127,Consumer Defensive,Household & Personal Products,1909
+558,ATNI,Communication Services,Telecom Services,-45.29496923633733,Communication Services,Telecom Services,1700
+559,WABC,Financial Services,Banks-Regional,4.701931150293866,Financial Services,Banks-Regional,737
+560,GCO,Consumer Cyclical,Apparel Retail,-85.23076923076924,Consumer Cyclical,Apparel Retail,5650
+561,OIS,Energy,Oil & Gas Equipment & Services,-39.57597173144876,Energy,Oil & Gas Equipment & Services,2337
+562,FDP,Consumer Defensive,Farm Products,-20.096496748479122,Consumer Defensive,Farm Products,38000
+563,FLOW,Industrials,Specialty Industrial Machinery,26.624605678233433,Industrials,Specialty Industrial Machinery,5000
+564,CLI,Real Estate,REIT-Office,-29.962894248608542,Real Estate,REIT-Office,283
+565,TTEC,Technology,Information Technology Services,26.459627329192543,Technology,Information Technology Services,56200
+566,GBX,Industrials,Railroads,17.91744840525328,Industrials,Railroads,10600
+567,CLB,Energy,Oil & Gas Equipment & Services,-6.645367412140576,Energy,Oil & Gas Equipment & Services,3800
+568,SHAK,Consumer Cyclical,Restaurants,18.26388888888889,Consumer Cyclical,Restaurants,7603
+569,INN,Real Estate,REIT-Hotel & Motel,-3.939592908732762,Real Estate,REIT-Hotel & Motel,59
+570,MERC,Basic Materials,Paper & Paper Products,16.433566433566444,Basic Materials,Paper & Paper Products,2325
+571,ELY,Consumer Cyclical,Leisure,18.66475233309404,Consumer Cyclical,Leisure,4200
+572,AROC,Energy,Oil & Gas Equipment & Services,-39.047619047619044,Energy,Oil & Gas Equipment & Services,1700
+573,VREX,Healthcare,Medical Devices,13.318396813542446,Healthcare,Medical Devices,2000
+574,FBM,Industrials,Industrial Distribution,-7.978363759296833,Industrials,Industrial Distribution,3400
+575,PUMP,Energy,Oil & Gas Equipment & Services,32.787698412698404,Energy,Oil & Gas Equipment & Services,2200
+576,CADE,Financial Services,Banks-Regional,19.395280235988206,Financial Services,Banks-Regional,1800
+577,HCC,Basic Materials,Coking Coal,32.04771371769383,Basic Materials,Coking Coal,1417
+578,SGH,Technology,Semiconductors,51.958456973293764,Technology,Semiconductors,1754
+579,KREF,Real Estate,REIT-Mortgage,-7.446276861569206,Real Estate,REIT-Mortgage,0
+580,SAFE,Real Estate,REIT-Diversified,-5.681818181818182,Real Estate,REIT-Diversified,0
+581,GPMT,Real Estate,REIT-Mortgage,-6.257046223224369,Real Estate,REIT-Mortgage,0
+582,CEIX,Energy,Thermal Coal,0.0,Energy,Thermal Coal,1792
