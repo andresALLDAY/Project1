@@ -20,7 +20,7 @@ One of the first things we wanted to look at was the [percentage change](percent
 
 The [moving averages](moving_averages.ipynb) file goes through a listing of the top 20 companies out of our index fund and generates [plots](images/ryam_avg.png) for each of our top 20 stocks that includes the monthly prices, a 6 month moving average as well as an average price of all stocks in the index fund. 
 
-We also generated scatter plots to compare [company performance (percentage change) and company size](
+We also generated scatter plots to compare [company performance (percentage change) and company size](Sectors_vs_Company_Size.ipynb). An example is: [basic materials](images/basic_mats_scatter.png).
 
 Finally, our [industry plots](industry_plots.ipynb) file takes our data and generates some analysis of the chosen Sectors for plotting and comparison. We binned the companies by number of employees and determined [performance by company size](images/perc_by_size.png). In addition we created plots showing the average stock prices of our [chosen sectors](images/selected_sectors_vs_all.png) vs the total fund throughout 2020. 
 
