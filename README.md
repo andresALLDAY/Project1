@@ -18,7 +18,7 @@ After having all of the data pulled, we needed to merge the company information 
 #### Perentage Changes, Moving Averages, Sector Plots
 One of the first things we wanted to look at was the [percentage change](percentage_change_calculations.ipynb) for each [company](api-data/yearly_summary/ticker_pct_chg_2020.csv) in the various yearly files we created. This allowed us to group by sector and determine [sector performance](api-data/yearly_summary/sector_pct_chg_2020.csv) on a percentage change basis. 
 
-The [moving averages](moving_averages.ipynb) file goes through a listing of the top 20 companies out of our index fund and generates [plots](images/ryam_avg.png) for each of our top 20 stocks that includes the monthly prices, a 6 month moving average as well as an average price of all stocks in the index fund. 
+The [moving averages](moving-averages.ipynb) file goes through a listing of the top 20 companies out of our index fund and generates [plots](images/ryam_avg.png) for each of our top 20 stocks that includes the monthly prices, a 6 month moving average as well as an average price of all stocks in the index fund. 
 
 We also generated scatter plots to compare [company performance (percentage change) and company size](Sectors_vs_Company_Size.ipynb). An example is: [basic materials](images/basic_mats_scatter.png).
 
