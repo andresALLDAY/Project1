@@ -1,4 +1,4 @@
-# Winners in a Pandemic - CWRU Group Project #1
+# Winners in a Pandemic - CWRU Group 4 - Project #1
 
 ## Project Description
 Our project is looking to uncover industries and companies that have benefited financially from the COVID-19 pandemic. We decided to look at a broad index of small-cap stocks to try and uncover trends. We chose small-cap stocks as they tend to be more tightly tied to the economy over shorter periods of time when compared with large-cap and blue chip stocks. We chose our companies by utilizing the SPDR® S&P 600™ Small Cap ETF index fund. 
@@ -25,6 +25,8 @@ We also generated scatter plots to compare [company performance (percentage chan
 Finally, our [industry plots](industry_plots.ipynb) file takes our data and generates some analysis of the chosen Sectors for plotting and comparison. We binned the companies by number of employees and determined [performance by company size](images/perc_by_size.png). In addition we created plots showing the average stock prices of our [chosen sectors](images/selected_sectors_vs_all.png) vs the total fund throughout 2020. 
 
 ##### CWRU Project 1 Group 4
+
+Here is a link to our PowerPoint presentation that summarized our findings: [Covid Winners](covid-winners.pptx)
 
 Here is the link to our Google Doc, which contains all of our Project Information under "Project Proposal": https://docs.google.com/document/d/11oqdDqOZct4MqUzB3UWuH6a8CUQQ06ZwHps7myUXOuo/edit?usp=sharing
 
